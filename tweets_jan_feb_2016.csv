@@ -1,0 +1,676 @@
+incident_no,day,time_on_twitter,projected_start,event_end,full_tweet,category,projected_start_prj,event_end_prj,true_event_start,true_event_end
+1,2016/01/01,11:40,11:40,13:40,Traffic congestion on Main Rd intersecting with Glengariff Rd in Sea Point.,traffic,1,1,13:40,15:40
+2,2016/01/01,12:32,12:32,14:32,"Traffic congestion on Victoria Rd from Camps Bay entrance to 2nd Beach, Clifton.",traffic,1,1,14:32,16:32
+3,2016/01/01,12:35,12:35,14:35,"Traffic gridlocked along Baden Powell, Main road in Muizenberg. Please try and avoid this area.",traffic,1,1,14:35,16:35
+4,2016/01/01,12:38,12:38,14:38,We are experiencing one of the busiest seasons at our pools. In the interest of safety the gates will be closed once at capacity.,traffic,1,1,14:38,16:38
+5,2016/01/01,13:27,13:27,15:27,"All beaches in the Western Cape full to capacity, please avoid.",traffic,1,1,15:27,17:27
+6,2016/01/02,07:26,07:26,08:14,Traffic lights at Hindle/ Delft Main in Voorbrug are flashing. The department is attending.,traffic,1,,09:26,10:14
+7,2016/01/02,07:27,07:27,09:35,Traffic lights at R102 / Grove are flashing. The department is attending.,traffic,1,,09:27,11:35
+8,2016/01/02,07:29,07:29,08:12,Traffic lights at Century Blvd / Entrance 7 are flashing. The department is attending.,traffic,1,,09:29,10:12
+9,2016/01/02,07:33,07:33,08:31,Traffic lights at Klipfontein / Steve Biko Rd in Guguletu are flashing. The department is attending.,traffic,1,,09:33,10:31
+10,2016/01/03,12:11,06:20,08:20,There is an electrical fault affecting the Bonteheuwel area ( Firethorn; Bluegum & Vicinity) as of 08:20. The department is attending.,electric,,1,08:20,10:20
+11,2016/01/03,16:55,14:40,18:25,"There is currently an electrical fault affecting Plumstead, Exmouth road & surr as of 16:40. The department is currently attending to this.",electric,,,16:40,20:25
+12,2016/01/03,17:05,15:00,17:00,"There is currently an electrical fault affecting Vrygrond, Drury road & surr as of 17:00. The department is currently attending to this.",electric,,1,17:00,19:00
+13,2016/01/03,18:54,18:40,20:40,"There is currently an electrical fault affecting Brackenfell Ind, Patrys crescent as of 20:40. The department is currently attending to this",electric,,1,20:40,22:40
+14,2016/01/03,19:02,18:10,20:10,"There is currently an electrical fault affecting Eversdal, Lynne close as of 20:10. The department is currently attending to this.",electric,,1,20:10,22:10
+15,2016/01/03,19:29,18:30,20:30,"There is currently an electrical fault affecting Nyanga, KTC. Mbewana str & surr as of 20:30. The department is currently attending to this.",electric,,1,20:30,22:30
+16,2016/01/04,04:24,04:24,05:51,Traffic lights at Campground/Mariendahl in Newlands are flashing. The department is attending to this.,traffic,1,,06:24,07:51
+17,2016/01/04,04:26,04:26,04:55,Traffic lights at Durbanville/De Villiers in Durbanville are flashing. The department is attending to this.,traffic,1,,06:26,06:55
+18,2016/01/04,04:28,04:28,04:56,Traffic lights at Main/Church/Durbanville are flashing. The department is attending to this.,traffic,1,,06:28,06:56
+19,2016/01/04,04:30,04:30,07:43,Traffic lights at Milner/Avenue De Mist are flashing. The department is attending to this.,traffic,1,,06:30,09:43
+20,2016/01/04,04:43,04:43,09:42,Traffic lights at Blaauwberg/Marine are flashing. The department is attending to this.,traffic,1,,06:43,11:42
+21,2016/01/04,04:50,04:50,12:18,Traffic lights at Sandown/Rivergate in Parklands are flashing. The department is attending to this.,traffic,1,,06:50,14:18
+22,2016/01/04,06:23,06:23,08:19,Traffic lights at Milton/Townsend in Goodwood are flashing. The department is attending to this.,traffic,1,,08:23,10:19
+23,2016/01/04,06:33,06:33,07:44,Traffic lights at Steve Biko/NY3 are flashing. The department is attending to this.,traffic,1,,08:33,09:44
+24,2016/01/04,08:10,01:00,03:00,There is an electrical fault affecting the Parow Valley area ( Coniston road& Vicinity) as of 03:00. The department is attending to this.,electric,,1,03:00,05:00
+25,2016/01/04,08:10,02:45,04:45,There is an electrical fault affecting the Retreat area ( 8 Ave & Vicinity) as of 04:45. The department is attending to this.,electric,,1,04:45,06:45
+26,2016/01/04,08:13,05:30,08:17,There is an electrical fault affecting the Fresneay area ( Top Road & Vicinity) as of 07:30. The department is attending to this.,electric,,,07:30,10:17
+27,2016/01/04,08:14,07:15,08:31,There is an electrical fault affecting the Fishoek area (Upper Recreation & Vicinity) as of 09:15. The department is attending to this.,electric,,,09:15,10:31
+28,2016/01/04,08:15,04:50,06:50,There is an electrical fault affecting the Kalk Bay area ( Main & Vicinity) as of 06:50. The department is attending to this.,electric,,1,06:50,08:50
+29,2016/01/04,08:30,08:30,09:45,Traffic lights at La Belle/Winelands are flashing. The department is attending to this.,traffic,1,,10:30,11:45
+30,2016/01/04,08:34,08:34,10:03,Traffic lights at Helen Suzman/Vlei in Green Point are out. The department is attending to this.,traffic,1,,10:34,12:03
+31,2016/01/04,09:31,09:31,09:43,Traffic lights at Frans Conradie/Hugo in Goodwood are out. The department is attending to this.,traffic,1,,11:31,11:43
+32,2016/01/04,10:18,10:18,12:12,Traffic lights at Victoria/Suikerbossie are flashing. The department is attending to this.,traffic,1,,12:18,14:12
+33,2016/01/04,10:20,10:20,12:14,Traffic lights at Van Riebeeck/Carinus in Kuils River are flashing. The department is attending to this.,traffic,1,,12:20,14:14
+34,2016/01/04,10:32,08:20,10:20,There is an electrical fault affecting the Green Point area ( Main;Eaton& Vicinity) as of 10:20. The department is attending to this.,traffic,,1,10:20,12:20
+35,2016/01/04,10:50,08:15,10:15,There is an electrical fault affecting the Gugulethu area ( NY 112; ) as of 10:15. The department is attending to this.,traffic,,1,10:15,12:15
+36,2016/01/04,12:06,12:06,14:35,Traffic lights at the R102 / Firgrove are flashing. The department is attending.,traffic,1,,14:06,16:35
+37,2016/01/04,12:28,09:45,11:45,There is an electrical fault affecting the Claremont area ( Thompson; Queen Victoria & Vicinity) as of 11:45. The department is attending.,electric,,1,11:45,13:45
+38,2016/01/05,06:48,06:48,06:57,Traffic lights at Arauna/Brackenfell/Stanley in Brackenfell are flashing. The department is attending to this.,traffic,1,,08:48,08:57
+39,2016/01/05,07:47,07:47,08:41,Traffic lights at Buitenkant/Castle in the CBD are flashing. The department is attending to this.,traffic,1,,09:47,10:41
+40,2016/01/05,09:31,09:31,11:31,"Stationary vehicle on the N2 inbound at Hospital Bend. Center lane closed, expect delays.",traffic,1,1,11:31,13:31
+41,2016/01/05,12:10,12:10,12:40,Traffic lights at the Vryburger Ave / Botma St in Bothasig are flashing. The department is attending.,traffic,1,,14:10,14:40
+42,2016/01/05,12:38,12:38,14:38,Traffic lights at the Riebeeck / Carinus are flashing. The department is attending.,traffic,1,1,14:38,16:38
+43,2016/01/05,13:28,13:28,14:53,Traffic lights at the Malta / Link are flashing. The department is attending.,traffic,1,,15:28,16:53
+44,2016/01/05,15:02,15:02,17:02,"Crash on Jakes Gerwel Dr north, centre lane obstructed before Voortrekker Rd. Proceed with caution.",traffic,1,1,17:02,19:02
+45,2016/01/05,15:47,15:47,17:47,Traffic lights at the Vryburger Ave / Tafelberg St in Bothasig are flashing. The department is attending.,traffic,1,1,17:47,19:47
+46,2016/01/05,16:06,16:06,17:17,"Ramp closed on the N2 inbound at the Airport Approach off-ramp, use alternative route.",traffic,1,,18:06,19:17
+47,2016/01/06,04:30,04:30,05:42,Traffic lights at Jip De Jager/Van Riebeeckshof are flashing. The department is attending to this.,traffic,1,,06:30,07:42
+48,2016/01/06,04:46,04:46,05:27,"Stationary vehicle on the N2 inbound at Mowbray Main off ramp. Left lane closed, expect delays.",traffic,1,,06:46,07:27
+49,2016/01/06,04:48,04:48,07:10,Traffic lights at Nooiensfontein/Carinus in Kuils River are flashing. The department is attending to this.,traffic,1,,06:48,09:10
+50,2016/01/06,04:50,04:50,05:42,Traffic lights at Ottery/Torrens in Ottery are flashing. The department is attending to this.,traffic,1,,06:50,07:42
+51,2016/01/06,04:54,00:45,02:45,"There is currently an electrical fault in Ravensmead, 1st Ave, 2nd Ave, Poplar St & surr, as of 01:45",electric,,1,02:45,04:45
+52,2016/01/06,07:47,05:00,07:00,"There is currently an electrical fault affecting Philippi, as of 07:00. The department is currently attending to this.",electric,,1,07:00,09:00
+53,2016/01/06,07:48,06:00,14:00,Planned electrical maintenance today in Milnerton (Mimosa street) from 08:00 ? 16:00. Contact 0860 103 089 for more info,electric,,,08:00,16:00
+54,2016/01/06,09:30,09:30,10:21,"Crash on M5 south at Berkley. Centre lane closed, expect delays.",traffic,1,,11:30,12:21
+55,2016/01/06,13:14,13:14,15:14,Traffic lights at Vryburger Ave / Botma St in Bothasig are flashing. The department is attending.,traffic,1,1,15:14,17:14
+56,2016/01/06,13:27,13:27,15:27,Traffic lights at Eisleben / White Heart Lane in Weltevreden Valley are flashing. The department is attending.,traffic,1,1,15:27,17:27
+57,2016/01/06,13:48,13:48,15:48,Traffic lights at Brackenfell Blvd / Bottelary Rd in Brackenfell are flashing. The department is attending.,traffic,1,1,15:48,17:48
+58,2016/01/06,16:43,14:43,16:43,Stationary vehicle on the N2 inbound before Jakes Gerwel Dr.,traffic,,,16:43,18:43
+59,2016/01/07,04:08,04:08,07:05,Traffic lights at R300/Hindle in Delft are flashing. The department is attending to this.,traffic,1,,06:08,09:05
+60,2016/01/07,04:10,04:10,07:03,Traffic lights at Spine/Church in Strandfontein are flashing. The department is attending to this.,traffic,1,,06:10,09:03
+61,2016/01/07,04:12,04:12,06:03,Traffic lights at Beach/Three Anchor Bay are flashing. The department is attending to this.,traffic,1,,06:12,08:03
+62,2016/01/07,04:23,04:23,07:04,Traffic lights at Duinefontein/Ascension in Heideveld are flashing. The department is attending to this.,traffic,1,,06:23,09:04
+63,2016/01/07,04:32,04:32,05:27,"Crash on N1 inbound before Plattekloof. Two lanes closed, expect delays.",traffic,1,,06:32,07:27
+64,2016/01/07,06:18,06:18,08:18,There is an electrical fault affecting the Scarborough area ( Pine Haven ) as of yesterday. The department is attending to this.,electric,1,1,08:18,10:18
+65,2016/01/07,06:19,06:00,08:00,There is an electrical fault affecting the Phillippi area ( Vredelust Farm & Vicinity ) as of 08:00. The department is attending to this.,traffic,,1,08:00,10:00
+66,2016/01/07,07:24,06:50,08:50,There is an electrical fault in the Green Point area ( Wigtown;Haytor;Daysart;Torbay;Sydney & Vicinity) as of 08:50. We Are attending.,electric,,1,08:50,10:50
+67,2016/01/07,07:26,07:00,09:00,There is an electrical fault in the Sea Point area ( Milton & Vicinity) as of 09:00. We Are attending.,electric,,1,09:00,11:00
+68,2016/01/07,09:15,09:15,10:26,Traffic lights at Adderley/Longmarket in the CBD are flashing. The department is attending to this.,traffic,1,,11:15,12:26
+69,2016/01/07,09:50,09:50,11:50,Traffic lights at Main/Dido Valley in Simon?s Town are flashing. The department is attending to this.,traffic,1,1,11:50,13:50
+70,2016/01/07,14:43,12:43,14:43,A Truck has lost a load of glass on Ou Kaapse Weg north at the Noordhoek turnoff.,traffic,,,14:43,16:43
+71,2016/01/08,05:14,05:14,07:00,Traffic lights at Christiaan Barnard/Sir Lowry are flashing. The department is attending to this.,traffic,1,,07:14,09:00
+72,2016/01/08,05:16,05:16,09:45,Traffic lights at Otto du Plessis/Marine in Table View are flashing. The department is attending to this.,traffic,1,,07:16,11:45
+73,2016/01/08,05:43,05:43,07:43,"There is an electrical fault affecting the Woodstock area ( Newmarket, Dorset & Vicinity) as of Yesterday. The department is attending.",electric,1,1,07:43,09:43
+74,2016/01/08,05:45,00:00,02:00,"There is an electrical fault affecting the Vredehoek area ( Virginia,Upper Maynard & Vicinity) as of 02:00. The department is attending.",electric,,1,02:00,04:00
+75,2016/01/08,07:36,07:36,09:36,There is an electrical fault affecting the Rondebosch East area ( Smal Street) as of Yesterday. The department is attending.,electric,1,1,09:36,11:36
+76,2016/01/08,07:37,06:52,08:52,There is an electrical fault affecting the Mannenberg area ( Irvin Street ) as of 08:52. The department is attending,electric,,1,08:52,10:52
+77,2016/01/08,09:03,09:03,10:06,Traffic lights at La Belle/Winelands are flashing. The department is attending to this.,traffic,1,,11:03,12:06
+78,2016/01/08,10:05,10:05,12:05,Traffic lights at Durbanville Ave/Pasita are flashing. The department is attending to this.,traffic,1,1,12:05,14:05
+79,2016/01/08,12:08,12:08,14:08,Big Bay beach has been closed due to a spill on the boardwalk. The area is currently being cleaned.,traffic,1,1,14:08,16:08
+80,2016/01/09,07:29,07:29,09:29,Traffic lights at Balvenie Ave / Norwood Rd are all out. The department is attending.,traffic,1,1,09:29,11:29
+81,2016/01/09,07:34,07:34,08:09,Traffic lights at Koeberg Rd / Noble Rd in Sanddrift are flashing. The department is attending.,traffic,1,,09:34,10:09
+82,2016/01/09,07:41,08:38,10:38,Traffic lights at Plattekloof Rd / Rothschild Blvd in Welgelegen are flashing. The department is attending.,traffic,,1,10:38,12:38
+83,2016/01/09,15:03,06:30,14:00,Electrical Maintenance in Rondebosch Area ( Dulverton;Albion Oban & Vicinity) from 08:30?16:00.Contact 0860 103 089 for more info,electric,,,08:30,16:00
+84,2016/01/09,15:03,14:00,16:00,Electrical Maintenance in Rondebosch Area ( Dulverton;Albion Oban & Vicinity) from 16:00.Contact 0860 103 089 for more info,electric,,1,16:00,18:00
+85,2016/01/09,16:37,16:00,18:00,Electrical Maintenance in Goodwood ( Fisher road ) from 18:00.Contact 0860 103 089 for more info,electric,,1,18:00,20:00
+86,2016/01/10,10:53,10:53,12:53,Update: The fire on Table Mountain is under control and being attended to. Vehicles from the fire department are on the scene.,traffic,1,1,12:53,14:53
+87,2016/01/11,04:17,04:17,06:58,Traffic lights at Meerlust St & Old Paarl Rd in Oakglen are flashing. The department is attending.,traffic,1,,06:17,08:58
+88,2016/01/11,04:29,04:29,05:43,Traffic lights at Plattekloof Rd / Rothschild Blvd & Olienhout Ave in Welgelegen are flashing. The department is attending.,traffic,1,,06:29,07:43
+89,2016/01/11,04:34,04:34,05:42,Traffic lights at Durban Rd / Bela Rosa St in Durbanville are flashing. The department is attending.,traffic,1,,06:34,07:42
+90,2016/01/11,06:45,06:45,08:45,"Fire at Scarborough Main Rd, Scarborough Main Rd has been closed at Red Hill Rd, Slangkop and Kommetjie Rd.",traffic,1,1,08:45,10:45
+91,2016/01/11,08:04,08:04,10:52,Traffic lights at Amandel Rd / Sandalwood Rd in Kuils River are flashing. The department is attending.,traffic,1,,10:04,12:52
+92,2016/01/11,12:18,12:18,13:22,"Road closure on the N7 northbound before Potsdam, due to veld fire. Use alternative route.",traffic,1,,14:18,15:22
+93,2016/01/11,12:37,12:37,14:37,"Update: Road closure on the N7 north between Plattekloof and Potsdam, due to veld fire. Both directions affected, use alternative route.",traffic,1,1,14:37,16:37
+94,2016/01/11,12:43,12:43,13:12,Traffic lights at Erica/Symphony are flashing. The department is attending to this.,traffic,1,,14:43,15:12
+95,2016/01/11,13:12,13:12,14:41,Traffic lights at Montague/Dawn in Montague Gardens are flashing. The department is attending to this.,traffic,1,,15:12,16:41
+96,2016/01/11,14:22,14:22,14:33,"Stationary vehicle on N2 outbound at airport approach. Center lane closed, expect delays.",traffic,1,,16:22,16:33
+97,2016/01/11,14:58,14:58,16:58,"Fire at Scarborough Main Rd, Scarborough Main Rd has been closed at Red Hill Rd, Slangkop and Kommetjie Rd.",traffic,1,1,16:58,18:58
+98,2016/01/11,15:59,15:59,17:37,"Crash on N1 outbound at Koeberg interchange. Ramp lane obstructed, expect delays.",traffic,1,,17:59,19:37
+99,2016/01/12,04:17,04:17,06:12,Traffic lights at Koeberg Rd / Zastron Rd in Milnerton are flashing. The department is attending.,traffic,1,,06:17,08:12
+100,2016/01/12,04:20,04:20,06:13,Traffic lights at Gert van Rooyen Ave / Giel Basson Dr in Welgelegen are flashing. The department is attending.,traffic,1,,06:20,08:13
+101,2016/01/12,05:11,05:11,07:11,"Crash at the intersection of De La Rey and North Way in Ravensmead, right lane closed. Proceed with caution.",traffic,1,1,07:11,09:11
+102,2016/01/12,12:50,12:50,14:31,Traffic lights at Koeberg / Racecourse in Montague Gardens are flashing. The department is attending.,traffic,1,,14:50,16:31
+103,2016/01/12,12:56,12:56,13:54,Traffic lights at La Belle / Winelands in Stikland Industrial are flashing. The department is attending.,traffic,1,,14:56,15:54
+104,2016/01/13,03:47,03:47,05:47,"Crash on the N7 northbound at the Wingfield interchange, two lanes closed. Proceed with caution.",traffic,1,1,05:47,07:47
+105,2016/01/13,04:22,04:22,08:39,Traffic lights at Van Riebeeck Rd / Nooiensfontein Rd in Kuils River are all out. The department is attending.,traffic,1,,06:22,10:39
+106,2016/01/13,04:55,04:55,05:22,Traffic lights at Plattekloof Rd / Rothschild Blvd / Olienhout Ave in Welgelegen are flashing. The department is attending.,traffic,1,,06:55,07:22
+107,2016/01/13,05:19,05:19,07:19,"Crash on Jakes Gerwel north over the railway bridge, left lane closed. Proceed with caution.",traffic,1,1,07:19,09:19
+108,2016/01/13,05:20,05:20,07:20,"Crash on Koeberg Rd south before Racecourse Rd, right lane closed. Proceed with caution.",traffic,1,1,07:20,09:20
+109,2016/01/13,05:25,05:25,07:25,"Crash on N2 inbound after Jakes Gerwel, centre lane closed. Proceed with caution.",traffic,1,1,07:25,09:25
+110,2016/01/13,05:39,05:39,06:43,Crash at Jakes Gerwel and the R300 intersection. Proceed with caution.,traffic,1,,07:39,08:43
+111,2016/01/13,06:10,06:10,08:10,"Crash on N2 inbound at De Waal Drive, right lane closed. Proceed with caution.",traffic,1,1,08:10,10:10
+112,2016/01/13,07:15,07:15,09:15,Traffic lights at Steve Biko / NY112 in Guguletu are flashing. The department is attending.,traffic,1,1,09:15,11:15
+113,2016/01/13,09:53,09:53,10:42,Traffic lights at Door De Kraal Ave / Durban Rd in Kenever are flashing. The department is attending.,traffic,1,,11:53,12:42
+114,2016/01/13,13:12,13:12,15:47,Ramp closure on the N2 outbound at Browning. Use alternative routes.,traffic,1,,15:12,17:47
+115,2016/01/14,00:50,00:00,02:00,"There is currently an electrical fault affecting Schaapkraal, Boundary rd & surr as of 01:40. The department is currently attending to this",electric,,1,02:00,04:00
+116,2016/01/14,02:35,06:30,14:00,"Planned electrical maintenance today in Gugulethu (NY11, NY126, NY140 & surrounds) from 08:30 ? 16:00. Contact 0860 103 089 for more info",electric,,,08:30,16:00
+117,2016/01/14,02:36,06:30,14:00,Planned electrical maintenance today in Belgravia Estate (1st avenue & surrounds) from 08:30 ? 16:00. Contact 0860 103 089 for more info,electric,,,08:30,16:00
+118,2016/01/14,02:37,06:00,14:00,Planned electrical maintenance today in Kenilworth (Kenilworth Racecourse) from 08:00 ? 16:00. Contact 0860 103 089 for more info,electric,,,08:00,16:00
+119,2016/01/14,04:50,04:50,05:50,Traffic lights at De Bron / Azalea in Brackenfell are flashing. The department is attending.,traffic,1,,06:50,07:50
+120,2016/01/14,05:04,05:04,11:03,Traffic lights at Gordons Bay Drive / Beach in Strand are flashing. The department is attending.,traffic,1,,07:04,13:03
+121,2016/01/14,05:11,05:11,07:11,"Crash on the N2 inbound at Liesbeeck Park Way, two lanes closed. Proceed with caution.",traffic,1,1,07:11,09:11
+122,2016/01/14,05:33,05:33,07:33,"Crash on N2 inbound at Raapenberg, left lane closed. Proceed with caution.",traffic,1,1,07:33,09:33
+123,2016/01/14,05:38,05:38,07:38,"Crash on New Eisleben between Miller and Borchards Quarry. Lanes closed in both directions, use alternative route.",traffic,1,1,07:38,09:38
+124,2016/01/14,06:48,06:48,08:48,"Crash at Adderley St and Strand St in the CBD, left lane south and left lane east bound obstructed. Proceed with caution.",traffic,1,1,08:48,10:48
+125,2016/01/14,06:52,06:52,08:52,"Crash at Strand Rd / De La Hey Ave in Thalmen, both right lanes east and west bound obstructed. Proceed with caution.",traffic,1,1,08:52,10:52
+126,2016/01/14,06:56,06:56,08:56,"Crash on the N2 inbound before Borcherds Quarry Rd, right lane closed. Proceed with caution.",traffic,1,1,08:56,10:56
+127,2016/01/14,14:29,14:29,15:15,"Stationary vehicle on the N1 outbound at Plattekloof. Left lane closed, expect delays.",traffic,1,,16:29,17:15
+128,2016/01/14,14:57,14:57,15:24,Traffic lights at Erica/Symphony are flashing. The department is attending to this.,traffic,1,,16:57,17:24
+129,2016/01/15,02:35,06:30,14:00,"Planned electrical maintenance today in Rondebosch East, 4th avenue & surrounds from 08:30 ? 16:00. Contact 0860 103 089 for more info",electric,,,08:30,16:00
+130,2016/01/15,02:36,06:30,14:00,"Planned electrical maintenance today in Constantia, Cumberland road & surrounds from 08:00 ? 16:00. Contact 0860 103 089 for more info",electric,,,08:30,16:00
+131,2016/01/15,04:07,04:07,05:26,Traffic lights at Main / Tokai in Dreyersdal are flashing. The department is attending.,traffic,1,,06:07,07:26
+132,2016/01/15,04:09,04:09,04:52,Traffic lights at Voortrekker Rd / Halt Rd in Richmond Estate are all out. The department is attending.,traffic,1,,06:09,06:52
+133,2016/01/15,04:15,04:15,04:37,Traffic lights at Frans Conradie Dr / Suikerbos St / Old Oak Rd in Eikenbosch are flashing. The department is attending.,traffic,1,,06:15,06:37
+134,2016/01/15,04:19,04:19,06:04,Traffic lights at Constantia Main Rd & Alphen Hill Rd in Wynberg are flashing. The department is attending.,traffic,1,,06:19,08:04
+135,2016/01/15,04:40,04:40,04:53,Traffic lights at Brackenfell Blvd / Frans Conradie Dr in Springbokpark are flashing. The department is attending.,traffic,1,,06:40,06:53
+136,2016/01/15,04:42,04:42,06:42,"Crash on the N2 inbound at Jakes Gerwel, right lane closed. Proceed with caution.",traffic,1,1,06:42,08:42
+137,2016/01/15,04:45,04:45,06:45,Crash on Strandfontein Rd in Ottery. Proceed with caution.,traffic,1,1,06:45,08:45
+138,2016/01/15,05:30,05:30,07:30,Crash at the intersection of Victoria Rd and 5th Ave in Grassy Park. Proceed with caution.,traffic,1,1,07:30,09:30
+139,2016/01/15,06:42,06:42,08:52,Traffic lights at Orange St / Breda St in Gardens are flashing. The department is attending.,traffic,1,,08:42,10:52
+140,2016/01/15,07:06,07:06,09:18,"Crash on the N2 inbound before Raapenberg, centre lane closed. Proceed with caution.",traffic,1,,09:06,11:18
+141,2016/01/15,07:24,07:24,08:01,Traffic lights at Duinefontein Rd / Jordan St in Manenberg are flashing. The department is attending.,traffic,1,,09:24,10:01
+142,2016/01/15,10:54,10:54,11:04,Traffic lights at Main Rd / Atlantic Rd in Muizenberg are flashing. The department is attending.,traffic,1,,12:54,13:04
+143,2016/01/15,10:56,10:56,11:34,"Stationary Vehicle on the N1 outbound before Plattekloof, centre lane closed. Proceed with caution.",traffic,1,,12:56,13:34
+144,2016/01/15,10:58,11:33,13:33,"Crash on the N2 outbound at Victoria, right lane closed. Proceed with caution.",traffic,,1,13:33,15:33
+145,2016/01/15,14:54,14:54,15:10,"Incident on the N2 inbound before airport approach. Two lanes closed, expect delays.",traffic,1,,16:54,17:10
+146,2016/01/16,03:15,06:00,14:00,Planned electrical maintenance today in Epping (African Oxygen Consumer Complex) from 08:00 ? 16:00. Contact 0860 103 089 for more info,electric,,,08:00,16:00
+147,2016/01/16,03:16,06:00,14:00,Planned electrical maintenance today in Maitland (Oil Products Consumer Complex) from 08:00 ? 16:00. Contact 0860 103 089 for more info,electric,,,08:00,16:00
+148,2016/01/16,06:16,06:16,07:16,Traffic lights at Valhalla/Owen are flashing. The department is currently attending to this.,traffic,1,,08:16,09:16
+149,2016/01/16,06:19,06:19,07:32,Traffic lights at Constantia/Brommersvlei in Constantia are flashing. The department is currently attending to this.,traffic,1,,08:19,09:32
+150,2016/01/16,06:24,06:24,06:30,Traffic lights at Duinefontein/The Downs in Manenberg are out. The department is currently attending to this.,traffic,1,,08:24,08:30
+151,2016/01/16,06:28,06:28,07:53,Traffic lights at Main/Lobelia in Somerset West are out. The department is currently attending to this.,traffic,1,,08:28,09:53
+152,2016/01/16,09:39,09:39,10:45,Traffic lights at Bree/Riebeeck in the CBD are flashing. The department is currently attending to this.,traffic,1,,11:39,12:45
+153,2016/01/16,23:48,23:48,01:48,"There is currently an electrical fault affecting Gardens, Rosmead avenue & surr. The department is currently attending to this.",electric,1,1,01:48,03:48
+154,2016/01/17,02:08,02:08,02:00,The electrical fault in Gardens affecting Rosmead avenue has been resolved as of 04:00,electric,1,,04:08,04:00
+155,2016/01/17,02:54,07:00,15:00,"Planned electrical maintenance today in Gardens, Canterbury Square substaion & surr from 09:00 ? 17:00. Contact 0860 103 089 for more info",electric,,,09:00,17:00
+156,2016/01/17,02:56,04:30,10:30,"Planned electrical maintenance today in Bellville, Triangle Farm erf 21785 & erf 21786 from 06:30 ? 12:30 Contact 0860 103 089 for more info",electric,,,06:30,12:30
+157,2016/01/17,02:56,07:00,11:00,"Planned electrical maintenance today in Cape Town, SA Mutual building from 09:00 ? 13:00. Contact 0860 103 089 for more info",electric,,,09:00,13:00
+158,2016/01/18,02:24,02:00,04:00,"There is currently an electrical fault affecting the Plumstead area, Firfield Rd as of 04:00. The department is currently attending to this.",electric,,1,04:00,06:00
+159,2016/01/18,02:25,04:00,16:00,"Planned electrical maintenance today in Plumstead, Carnarvon road & surrounds from 06:00 ? 18:00. Contact 0860 103 089 for more info",electric,,,06:00,18:00
+160,2016/01/18,02:26,06:30,14:00,"Planned electrical maintenance today in Rondebosch, Firth road & surrounds from 08:30 ? 16:00. Contact 0860 103 089 for more info",electric,,,08:30,16:00
+161,2016/01/18,02:27,07:00,14:00,Planned electrical maintenance today in Diep River/Bergvliet from 09:00 ? 16:00. Contact 0860 103 089 for more info,electric,,,09:00,16:00
+162,2016/01/18,03:26,02:30,04:30,"There is currently an electrical fault affecting Philippi, Weltevreden Rd & surr as of 04:30. The department is currently attending to this.",electric,,1,04:30,06:30
+163,2016/01/18,04:54,04:54,05:36,Traffic lights at Jip de Jager / Van Riebeeckshof are flashing. The department is attending.,traffic,1,,06:54,07:36
+164,2016/01/18,04:59,04:59,06:59,Saps incident on Prince George Drive after Hyde Rd in Parkwood. Left lane obstructed (Direction Muizenberg).,traffic,1,1,06:59,08:59
+165,2016/01/18,05:34,05:34,07:34,Truck broken down on Koeberg Rd before Coronation in Maitland. Left lane obstructed (Direction Salt River).,traffic,1,1,07:34,09:34
+166,2016/01/18,06:17,06:17,08:17,Crash on the Link from the R300 onto N2 inbound. Right lane obstructed.,traffic,1,1,08:17,10:17
+167,2016/01/18,07:15,07:15,07:31,"Traffic lights at Frans Conradie / Hugo in Richmond Estate, are flashing. The department is attending.",traffic,1,,09:15,09:31
+168,2016/01/18,08:37,08:37,10:37,Traffic lights at Durban / Bella Rosa in Rosenpark are flashing. The department is attending to the matter.,traffic,1,1,10:37,12:37
+169,2016/01/18,11:52,09:24,11:52,Traffic lights at R300 / Stellenbosch Arterial in Blue Downs have been repaired.,traffic,,,11:24,13:52
+170,2016/01/18,09:47,09:47,11:17,Traffic lights at Edinburgh / Upper Hillwood in Claremont are flashing. The department is attending to the matter.,traffic,1,,11:47,13:17
+171,2016/01/18,10:28,10:28,12:28,"There is a water outage in Arries road, Ocean View, which could also be affecting the surrounds. The department is attending to this.",water,1,1,12:28,14:28
+172,2016/01/18,10:29,10:29,12:29,"There is a water outage in Maynard Road, Wynberg, which could also be affecting the surrounds. The department is attending to this.",water,1,1,12:29,14:29
+173,2016/01/18,10:30,10:30,12:30,"There is a water outage in Lester road, Rondebosch, which could also be affecting the surrounds. The department is attending to this.",water,1,1,12:30,14:30
+174,2016/01/18,10:31,10:31,12:31,"There is a water outage in Nursary way, Pinelands, which could also be affecting the surrounds. The department is attending to this.",water,1,1,12:31,14:31
+175,2016/01/18,10:32,10:32,12:32,"There is a water outage in Ashford road, Parklands, which could also be affecting the surrounds. The department is attending to this.",water,1,1,12:32,14:32
+176,2016/01/18,10:32,10:32,12:32,"There is a water outage in Pinaster way, Northpine, which could also be affecting the surrounds. The department is attending to this.",water,1,1,12:32,14:32
+177,2016/01/18,10:34,10:34,12:34,"Water outages in Berglelie and Bignonia roads, Atlantis, which could also be affecting the surrounds. The department is attending to this.",water,1,1,12:34,14:34
+178,2016/01/18,10:36,10:36,12:36,"Water outages in Reservoir & Parel Vallei roads, Somerset West, which could affect the surrounds. The department is attending to this.",water,1,1,12:36,14:36
+179,2016/01/18,10:36,10:36,12:36,"Water outages in Weltevreden & Portland roads, Rondebosch, which could affect the surrounds. The department is attending to this.",water,1,1,12:36,14:36
+180,2016/01/18,10:41,10:41,11:41,Traffic lights at Raapenberg / Sawkins in Rosebank are flashing. The department is attending to the matter.,traffic,1,,12:41,13:41
+181,2016/01/18,10:42,10:42,15:29,Traffic lights at Waterkant / Long in City Centre are flashing. The department is attending to the matter.,traffic,1,,12:42,17:29
+182,2016/01/18,10:44,10:44,12:44,Traffic lights at Wesbank / Stellenbosch Arterial in Delft are out. The Department is attending to the matter.,traffic,1,1,12:44,14:44
+183,2016/01/18,11:24,11:24,12:03,Traffic lights at De La Rey St / Francie van Zijl Dr in Beaconvale are flashing. The department is attending to the matter.,traffic,1,,13:24,14:03
+184,2016/01/18,14:34,14:34,14:48,"Crash on the N2 inbound after Jan Smuts Dr, all lanes open. Proceed with caution.",traffic,1,,16:34,16:48
+185,2016/01/18,14:59,14:59,16:59,Crash on the M5 south at Berkley. Right lane obstructed. Proceed with caution.,traffic,1,1,16:59,18:59
+186,2016/01/18,16:15,16:15,16:54,"Vehicle Alight on the N2 outbound at Borcherds Quarry, right lane closed. Proceed with caution.",traffic,1,,18:15,18:54
+187,2016/01/19,02:47,06:30,14:00,"Planned electrical maintenance today in Rondebosch, Forth road & surrounds from 08:30 ? 16:00. Contact 0860 103 089 for more info",electric,,,08:30,16:00
+188,2016/01/19,02:48,04:00,16:00,"Planned electrical maintenance today in Plumstead, Students Way & surrounds from 06:00 ? 18:00. Contact 0860 103 089 for more info",electric,,,06:00,18:00
+189,2016/01/19,02:48,06:00,14:00,"Planned electrical maintenance today in Maitland, Uniroute Intake from 08:00 ? 16:00. Contact 0860 103 089 for more info",electric,,,08:00,16:00
+190,2016/01/19,02:50,06:30,14:00,"Planned electrical maintenance today in Philippi, Lansdowne Bridge Substation & surr from 08:30 ? 16:00. Contact 0860 103 089 for more info",electric,,,08:30,16:00
+191,2016/01/19,02:50,06:00,16:00,"Planned electrical maintenance today in Somerset West, Parel Vallei road & surrounds from 08:00 ? 18:00. Contact 0860 103 089 for more info",electric,,,08:00,18:00
+192,2016/01/19,02:51,06:00,14:00,"Planned electrical maintenance today in Newlands, Fleetwood avenue & surrounds from 08:00 ? 16:00. Contact 0860 103 089 for more info",electric,,,08:00,16:00
+193,2016/01/19,02:52,06:00,14:00,"Planned electrical maintenance today in Wynberg, Morgenrood road & surrounds from 08:00 ? 16:00. Contact 0860 103 089 for more info",electric,,,08:00,16:00
+194,2016/01/19,04:56,04:56,06:56,Traffic lights at Waterkant / Long in City Centre are flashing. The department is attending to the matter.,traffic,1,1,06:56,08:56
+195,2016/01/19,05:15,18:00,20:00,Roadworks on Otto du Plessis Dr & Bay Beach Ave (Sunset Beach) between 8pm - 6am. Please make use of Ocean Way as an alternative access.,traffic,ends next day,1,20:00,22:00
+196,2016/01/19,05:45,05:45,06:19,Crash on the N1 inbound before Plattekloof Rd. Centre lane obstructed.,traffic,1,,07:45,08:19
+197,2016/01/19,05:46,05:46,06:38,Crash on Rhodes Drive & Hohenhort in Constantia. Obstruction Off roadway.,traffic,1,,07:46,08:38
+198,2016/01/19,05:47,05:47,07:47,Crash on Central Square in Pinelands. Obstruction Off roadway.,traffic,1,1,07:47,09:47
+199,2016/01/19,05:48,05:48,06:20,Crash on College Rd & Voorspoed Rd in Surrey Estate. Obstruction Off roadway.,traffic,1,,07:48,08:20
+200,2016/01/19,05:49,05:49,06:21,Crash on Durban & Wilshammer Rd in Bellville. Obstruction Off roadway.,traffic,1,,07:49,08:21
+201,2016/01/19,06:39,06:39,08:39,Crash on Neptune & Carlisle in Paarden Eiland. Obstruction Off roadway.,traffic,1,1,08:39,10:39
+202,2016/01/19,06:40,06:40,08:40,Crash on Kommetjie Rd between Capri Rd & Glencairn Expressway. Obstruction Off roadway.,traffic,1,1,08:40,10:40
+203,2016/01/19,08:00,08:00,11:09,Traffic lights at Victoria / Mountview are flashing. The department is attending to the matter.,traffic,1,,10:00,13:09
+204,2016/01/19,14:39,14:39,16:39,Traffic lights at Neptune St / Carlisle St in Paarden Eiland are flashing. The department is attending to this.,traffic,1,1,16:39,18:39
+205,2016/01/19,15:01,15:01,15:17,"Crash on the N2 outbound before Symphony Way, all lanes open. Proceed with caution.",traffic,1,,17:01,17:17
+206,2016/01/19,16:19,16:19,16:48,"Crash on the R300 South at Stellenbosch Arterial, right lane closed. Proceed with caution.",traffic,1,,18:19,18:48
+207,2016/01/20,01:55,06:00,14:00,"Planned electrical maintenance today in Maitland, Abattoir Substation from 08:00 ? 16:00. Contact 0860 103 089 for more info",electric,,,08:00,16:00
+208,2016/01/20,01:56,06:30,14:00,"Planned electrical maintenance today in Rondebosch, Forth road & surrounds from 08:30 ? 16:00. Contact 0860 103 089 for more info",electric,,,08:30,16:00
+209,2016/01/20,01:57,06:00,14:00,"Planned electrical maintenance today in Newlands, Constance road & surrounds from 08:00 ? 16:00. Contact 0860 103 089 for more info",electric,,,08:00,16:00
+210,2016/01/20,01:57,06:00,14:00,"Planned electrical maintenance today in Newlands, Angelina avenue & surrounds from 08:00 ? 16:00. Contact 0860 103 089 for more info",electric,,,08:00,16:00
+211,2016/01/20,01:58,06:00,14:00,"Planned electrical maintenance today in Bishops Court, Maclear way & surrounds from 08:00 ? 16:00. Contact 0860 103 089 for more info",electric,,,08:00,16:00
+212,2016/01/20,01:58,06:00,14:00,"Planned electrical maintenance today in Gordons Bay, Wild Olive road & surrounds from 08:00 ? 16:00. Contact 0860 103 089 for more info",electric,,,08:00,16:00
+213,2016/01/20,04:52,04:52,06:52,Truck broken down on Old Lansdowne Rd between Old Weltevreden & Ottery Rd in Philippi. Stop and Go in place.,traffic,1,1,06:52,08:52
+214,2016/01/20,06:08,06:08,09:32,Crash on Govan Mbeki & Heinz Rd in Philippi. Obstruction Off roadway.,traffic,1,,08:08,11:32
+215,2016/01/20,07:34,07:34,09:34,Traffic lights at Tennant / Constitution in Zonnebloem are flashing. The department is attending to the matter.,traffic,1,1,09:34,11:34
+216,2016/01/20,08:38,08:38,10:38,"There is a water outage in Heide Road, Belhar, which could also be affecting the surrounds. The department is attending to this.",water,1,1,10:38,12:38
+217,2016/01/20,08:39,08:39,10:39,"There is a water outage in Daniel Road, Sanddrift, which could also be affecting the surrounds. The department is attending to this.",water,1,1,10:39,12:39
+218,2016/01/20,08:48,08:48,12:49,Traffic lights at Waterkant / Bree in City Centre are flashing. The department is attending to the matter.,traffic,1,,10:48,14:49
+219,2016/01/20,08:51,08:51,10:51,Traffic lights at Tennant / Constitution in Zonnebloem are out. The department is attending to the matter.,traffic,1,1,10:51,12:51
+220,2016/01/20,09:36,09:36,12:51,Traffic lights at Giel Basson / Nathan Mallach are flashing. The department is attending to the matter.,traffic,1,,11:36,14:51
+221,2016/01/20,09:47,09:47,12:52,Traffic lights at Buitengracht / Hans Strijdom in City Centre are flashing. The department is attending to the matter.,traffic,1,,11:47,14:52
+222,2016/01/20,13:38,13:38,15:13,Traffic lights at Govan Mbeki Rd / Heinz Rd are flashing. The department is attending to the matter.,traffic,1,,15:38,17:13
+223,2016/01/21,05:17,05:17,07:17,Traffic lights at Govan Mbeki / Heinzin are flashing. The department is attending to the matter.,traffic,1,1,07:17,09:17
+224,2016/01/21,06:04,06:04,11:11,Traffic lights at Amandel / Sandlewood Rd in Kuils River are flashing. The department is attending to the matter.,traffic,1,,08:04,13:11
+225,2016/01/21,06:31,06:31,11:09,Traffic lights at Swartklip / Auber Rd in Mandalay are flashing. The department is attending to the matter.,traffic,1,,08:31,13:09
+226,2016/01/21,12:58,12:58,14:58,Stationary vehicle on the N1 inbound ramp to the N7 north. Proceed with caution.,traffic,1,1,14:58,16:58
+227,2016/01/21,14:03,14:03,16:03,"Stationary vehicle on the N1 outbound after Plattekloof, centre lane closed. Proceed with caution.",traffic,1,1,16:03,18:03
+228,2016/01/21,15:40,15:40,16:23,"Stationary vehicle on the N1 outbound before Koeberg Rd interchange, right lane closed. Proceed with caution.",traffic,1,,17:40,18:23
+229,2016/01/22,04:24,04:24,06:24,Traffic lights at Amandel / Sandlewood in Kuils River are flashing. The department is attending to the matter.,traffic,1,1,06:24,08:24
+230,2016/01/22,04:24,04:24,06:08,Traffic lights at Klip Rd / Plantation Rd in Lotus River are flashing. The department is attending to the matter.,traffic,1,,06:24,08:08
+231,2016/01/22,04:25,04:25,06:06,Traffic lights at Century Blvd / Entrance 7 are flashing. The department is attending to the matter.,traffic,1,,06:25,08:06
+232,2016/01/22,08:06,06:06,08:06,Update: Crash on Botelary & Amandel in Brackenfell has been cleared.,traffic,,,08:06,10:06
+233,2016/01/22,06:08,06:08,08:08,"Crash on Botelary & Amandel in Brackenfell. Obstruction In intersection, proceed with caution.",traffic,1,1,08:08,10:08
+234,2016/01/22,06:09,06:09,14:28,Traffic lights at Govan Mbeki / Becker are out. The department is attending to the matter.,traffic,1,,08:09,16:28
+235,2016/01/22,10:23,10:23,12:23,Truck broken down on Sir Lowrys Pass after the Hairpin Bend. Left lane obstructed (Direction Grabouw).,traffic,1,1,12:23,14:23
+236,2016/01/22,10:36,10:36,12:36,City advises of temporary road closures for Kaizer Chiefs vs Platinum Stars soccer game: https://t.co/0u2myGfHMg https://t.co/7yYjk8cwxi,traffic,1,1,12:36,14:36
+237,2016/01/22,11:16,11:16,13:16,Traffic lights at Edinburgh Dr / Hillwood Rd in Claremont are flashing. The department is attending to the matter.,traffic,1,1,13:16,15:16
+238,2016/01/22,11:20,11:20,12:55,Traffic lights at Eversdal Rd / Fairtrees Rd in Amanda Glen are flashing. The department is attending to the matter.,traffic,1,,13:20,14:55
+239,2016/01/22,11:37,11:37,13:00,"Stationary vehicle on the N1 outbound after Plattekloof, left lane closed. Proceed with caution.",traffic,1,,13:37,15:00
+240,2016/01/22,12:28,12:28,12:56,Traffic lights at Jip De Jager Dr / Uys Krige Dr in Loevenstein are flashing. The department is attending to the matter.,traffic,1,,14:28,14:56
+241,2016/01/22,13:15,13:15,14:48,Traffic lights Fairtrees Rd / De Villiers Rd in Sonstraal are flashing. The department is attending to the matter.,traffic,1,,15:15,16:48
+242,2016/01/23,06:23,06:23,07:29,Traffic lights Nooiensfontein Rd / Carinus St in Kuils River are flashing. The department is attending to the matter.,traffic,1,,08:23,09:29
+243,2016/01/23,06:50,06:50,10:49,Traffic lights Voortrekker Rd / 5th Avenue in Maitland are flashing. The department is attending to the matter.,traffic,1,,08:50,12:49
+244,2016/01/23,06:53,06:53,10:43,Traffic lights at Walter Sisulu Ave / Buitengracht St in Cape Town City Centre are flashing. The department is attending to the matter.,traffic,1,,08:53,12:43
+245,2016/01/23,10:31,10:31,10:51,Traffic lights at Koeberg Rd / Noble Rd in Milnerton are flashing. The department is attending to the matter.,traffic,1,,12:31,12:51
+246,2016/01/24,00:00,00:00,02:00,No data,traffic,1,1,02:00,04:00
+247,2016/01/25,04:21,04:21,09:48,"Traffic lights at Beach / St Johns, Sea Point are flashing. The department is attending to the matter.",traffic,1,,06:21,11:48
+248,2016/01/25,04:26,04:26,06:57,"Traffic lights at Milton / Hugo Streets, Richmond Estate are flashing. The department is attending to the matter.",traffic,1,,06:26,08:57
+249,2016/01/25,04:30,04:30,06:30,"Traffic lights at Spine / Church Streets, Strandfontein are flashing. The department is attending to the matter.",traffic,1,1,06:30,08:30
+250,2016/01/25,04:42,04:42,06:33,"Traffic lights at Klip / Plantation Rd, Ferness are flashing. The department is attending to the matter.",traffic,1,,06:42,08:33
+251,2016/01/25,04:44,04:44,06:31,"Traffic lights at Ladies Mile / Childrens Way, Bergvliet are flashing. The department is attending to the matter.",traffic,1,,06:44,08:31
+252,2016/01/25,04:46,04:46,08:58,"Traffic lights at Roeland / Plein Streets, CBD are flashing. The department is attending to the matter.",traffic,1,,06:46,10:58
+253,2016/01/25,05:14,05:14,06:39,"Crash on Hanover Park Ave, Athlone: Lonedown & Surran Roads closed in both directions, proceed with caution.",traffic,1,,07:14,08:39
+254,2016/01/25,05:16,05:16,06:27,"Traffic lights at Klipfontein / Duinefontein Roads, Heideveld are flashing. The department is attending to the matter.",traffic,1,,07:16,08:27
+255,2016/01/25,05:31,05:31,06:40,"Vehicle broken down at Marine Drive South before Loxton Rd, left lane closed, proceed with caution.",traffic,1,,07:31,08:40
+256,2016/01/25,05:33,05:33,09:00,"Traffic lights at Mill / Breda St, Gardens are flashing. The department is attending to the matter.",traffic,1,,07:33,11:00
+257,2016/01/25,05:38,05:38,07:38,"Traffic lights at Klipfontein / Hazel St, Athlone all lights out. The department is attending to the matter.",traffic,1,1,07:38,09:38
+258,2016/01/25,06:22,06:22,08:22,"There is a water outage in Grens Road, Bellville, which could also be affecting the surrounds. The department is attending to this.",water,1,1,08:22,10:22
+259,2016/01/25,06:23,06:23,08:23,"There is a water outage in Rue Street, Strand, which could also be affecting the surrounds. The department is attending to this.",water,1,1,08:23,10:23
+260,2016/01/25,06:24,06:24,08:24,"There is a water outage in John Rumble Street, Somerset West, which could also be affecting the surrounds. The department is attending.",water,1,1,08:24,10:24
+261,2016/01/25,06:24,06:24,08:24,"There is a water outage in Bedford Cnr Second Ave, Parow, which could also be affecting the surrounds. The department is attending to this.",water,1,1,08:24,10:24
+262,2016/01/25,06:29,06:29,08:29,"Traffic lights at Klipfontein / Thornton, Athlone are flashing. The department is attending to the matter.",traffic,1,1,08:29,10:29
+263,2016/01/25,06:48,06:48,09:18,"Traffic lights at Eisleben / Wespoort, Westridge are flashing. The department is attending to the matter.",traffic,1,,08:48,11:18
+264,2016/01/25,06:53,06:53,07:37,"Traffic lights at Durban / De Villiers, Durbanville are flashing. The department is attending to the matter.",traffic,1,,08:53,09:37
+265,2016/01/25,06:54,06:54,08:54,"Traffic lights at Main / Clovelly, Clovelly are flashing. The department is attending to the matter.",traffic,1,1,08:54,10:54
+266,2016/01/25,06:56,06:56,12:08,"Traffic lights at Doncaster / Punters, Claremont are flashing. The department is attending to the matter.",traffic,1,,08:56,14:08
+267,2016/01/25,08:33,07:00,09:00,There is an electrical fault in Fishoek affecting Dunster & Vicinity as of 09:00,electric,,1,09:00,11:00
+268,2016/01/25,08:36,07:00,09:00,There is an electrical fault in Steenberg affecting Bothma street & Vicinity as of 09:00 we are attending to the fault,electric,,1,09:00,11:00
+269,2016/01/25,08:37,07:00,09:00,There is an electrical fault in Seawinds affecting Overcome Heights Area as of 09:00 we are attending to the fault,electric,,1,09:00,11:00
+270,2016/01/25,08:38,07:00,09:00,There is an electrical fault in bellville affecting Boston11 Ave & Vicinity as of 09:00 we are attending to the fault.,electric,,1,09:00,11:00
+271,2016/01/25,08:39,05:57,07:57,There is an electrical fault in Strand affecting Fagan street & Vicinity as of 07:57 we are attending to the fault,electric,,1,07:57,09:57
+272,2016/01/25,08:40,21:10,23:10,There is an electrical fault in Athlone affectingAnthony street & Vicinity as of 23:10 we are attending to the fault,electric,,1,23:10,01:10
+273,2016/01/25,08:41,00:55,02:55,There is an electrical fault in Grassy Park affecting Klip road & Vicinity as of 02:55 we are attending to the fault,electric,,1,02:55,04:55
+274,2016/01/25,08:43,06:00,15:00,Electrical Maintenance in Bellville( Dawn;Mildred;De Bron;Alison;Hillside;Doorde Kraal) from 08:00?17:00.Contact 0860 103 089 for more info,electric,,,08:00,17:00
+275,2016/01/25,08:44,06:00,14:00,"Electrical Maintenance in Wynberg ( Connaught rd, Wetton Rd, Belper rd & Surr) from 08:00?16:00.Contact 0860 103 089 for more info",electric,,,08:00,16:00
+276,2016/01/25,08:45,06:30,14:00,Electrical Maintenance in Belgravia Estate ( Ashby Road & Surr) from 08:30?16:00.Contact 0860 103 089 for more info,electric,,,08:30,16:00
+277,2016/01/25,08:53,08:53,10:10,Traffic lights at Klipfontein Rd / Belgravia Rd in Silvertown are flashing. The department is attending to the matter.,traffic,1,,10:53,12:10
+278,2016/01/26,04:10,04:10,06:10,"Traffic lights at Nooiensfontein / Carrinus St, Kuils River, all lights out, the department is attending to this.",traffic,1,1,06:10,08:10
+279,2016/01/26,05:16,05:16,07:16,"Traffic lights at Sandown Rd / Campground Rd, Rondebosch are flashing. The department is attending to the matter.",traffic,1,1,07:16,09:16
+280,2016/01/26,05:18,05:18,06:41,"Traffic lights at Doncaster Rd / Chichester Rd, Claremont are flashing. The department is attending to the matter.",traffic,1,,07:18,08:41
+281,2016/01/26,07:26,07:26,10:45,Traffic lights at Main Rd / Piers Rd in Wynberg are flashing. The department is attending to the matter.,traffic,1,,09:26,12:45
+282,2016/01/26,08:48,08:48,10:48,"Water outage 11th cnr Washington road, Boston, Bellville, which could also be affecting the surrounds. The department is attending to this.",water,1,1,10:48,12:48
+283,2016/01/26,08:49,08:49,10:49,"Water outage Sipres avenue, Belhar, which could also be affecting the surrounds. The department is attending to this.",water,1,1,10:49,12:49
+284,2016/01/26,08:50,08:50,10:50,"Water outage: 3rd cnr Gardiner street, Parow, which could also be affecting the surrounds. The department is attending to this.",water,1,1,10:50,12:50
+285,2016/01/26,08:51,08:51,10:51,"Water outage: Anderson road, Goodwood, which could also be affecting the surrounds. The department is attending to this.",water,1,1,10:51,12:51
+286,2016/01/26,08:51,08:51,10:51,"Water outage: Strawberry lane, Constantia, which could also be affecting the surrounds. The department is attending to this.",water,1,1,10:51,12:51
+287,2016/01/26,08:51,08:51,10:51,"Water outage: Casper road, Ottery, which could also be affecting the surrounds. The department is attending to this.",water,1,1,10:51,12:51
+288,2016/01/26,08:52,08:52,10:52,"Water outage: Ndlanzi road, Lower Cross Roads, which could also be affecting the surrounds. The department is attending to this.",water,1,1,10:52,12:52
+289,2016/01/26,09:33,09:33,11:33,There is an electrical fault in Philippi affecting Monray street & Vicinity as of 10:00we are attending to the fault,electric,1,1,11:33,13:33
+290,2016/01/26,09:35,08:00,10:00,There is an electrical fault in Constatntia affecting Bergendal;Oleander;Squrrel;Cushat & Vicinity as of 10:00 we are attending the fault.,electric,,1,10:00,12:00
+291,2016/01/26,10:16,08:30,10:30,There is an electrical fault in Wetton affecting Wetton road & Vicinity as of 10:30 we are attending the fault.,electric,,1,10:30,12:30
+292,2016/01/26,10:27,09:10,11:10,There is an electrical fault in Oceanview affecting Apollo; Aquarius & Vicinity as of 11:10 we are attending the fault,electric,,1,11:10,13:10
+293,2016/01/26,10:43,10:43,12:43,"Update: Traffic lights at Main Rd / Hillside Rd, Fish Hoek have been repaired.",traffic,1,1,12:43,14:43
+294,2016/01/26,10:48,10:48,12:48,"Traffic lights at Valhalla & Myrtle Rd, Kalksteenfontein are flashing. The department is attending to the matter.",traffic,1,1,12:48,14:48
+295,2016/01/26,14:12,12:12,14:12,Update: Traffic lights at Valhalla & Myrtle Rd in Kalksteenfontein have been repaired.,traffic,,,14:12,16:12
+296,2016/01/26,15:33,13:33,15:33,Update:Truck broken down on Voortrekker Rd and beach Rd in Maitland. All lanes re-open.,traffic,,,15:33,17:33
+297,2016/01/26,14:17,14:17,14:19,Vegetation fire on the N2 outbound after Spine Rd. Left lane closed.,traffic,1,,16:17,16:19
+298,2016/01/26,14:18,14:18,16:18,Truck broken down on Voortrekker Rd and beach Rd in Maitland. Both lanes towards the City closed.,traffic,1,1,16:18,18:18
+299,2016/01/26,15:26,15:26,11:26,Traffic lights at Church / Spine in Strandfontein are flashing. The department is attending.,traffic,1,,17:26,13:26
+300,2016/01/26,15:53,15:53,17:53,Update: Traffic lights at Church / Spine in Strandfontein are out. The department is attending.,traffic,1,1,17:53,19:53
+301,2016/01/26,15:54,15:54,17:54,"Stationary Vehicle on the N2 outbound before Bhunga. Centre lane closed, expect delays.",traffic,1,1,17:54,19:54
+302,2016/01/27,05:52,05:52,11:42,"Traffic lights at Buitenkant & Albertus St, CBD are flashing. The department is attending to this.",traffic,1,,07:52,13:42
+303,2016/01/27,06:29,06:30,14:00,Electrical Maintenance in Belgravia Estate ( Taronga Road & Vicinity ) from 08:30?16:00.Contact 0860 103 089 for more info,electric,,,08:30,16:00
+304,2016/01/27,06:31,04:00,16:00,"Electrical Maintenance in Hout Bay ( Harbour, Karbonkel , Rode Vos & Vicinity ) from 06:00?18:00.Contact 0860 103 089 for more info",electric,,,06:00,18:00
+305,2016/01/27,06:36,06:00,16:00,Electrical Maintenance in Big Bay ( Big Bay Beach Club; Lapaloma & Vicinity ) from 08:00?18:00.Contact 0860 103 089 for more info,electric,,,08:00,18:00
+306,2016/01/27,06:37,06:00,15:00,Electrical Maintenance in Kenridge Area ( De Villiers; Kenridge; Tafelberg & Vicinity ) from 08:00?17:00.Contact 0860 103 089 for more info,electric,,,08:00,17:00
+307,2016/01/27,06:39,06:00,14:00,Electrical Maintenance in Gordons Bay Area ( Felicia; Mountainside ; Grens & Vicinity ) from 08:00?16:00.Contact 0860 103 089 for more info,electric,,,08:00,16:00
+308,2016/01/27,06:41,06:00,14:00,Electrical Maintenance in Gordons Bay Area ( Greenway; Dennehof ; Bredel & Vicinity ) from 08:00?16:00.Contact 0860 103 089 for more info,electric,,,08:00,16:00
+309,2016/01/27,06:42,06:00,14:00,Electrical Maintenance in Rondebosch East Area ( Taronga Road; & Vicinity ) from 08:00?16:00.Contact 0860 103 089 for more info,electric,,,08:00,16:00
+310,2016/01/27,06:42,06:42,08:42,"Traffic lights at Dennehof Rd / Sir Lowry's Pass, Admirals Park, lights are flashing. The department is attending to this.",traffic,1,1,08:42,10:42
+311,2016/01/27,09:19,08:30,10:30,There is an electrical fault in Noordhoek affecting Lynden Close & Vicinity as of 10:30,electric,,1,10:30,12:30
+312,2016/01/27,11:14,11:14,13:14,"Traffic lights at Main / Hillside Rd, Fish Hoek are flashing. The department is attending to this.",traffic,1,1,13:14,15:14
+313,2016/01/27,11:25,11:25,13:25,Traffic lights at Dennehof / Sir Lowry's Passin Admirals Park are out. The department is attending.,traffic,1,1,13:25,15:25
+314,2016/01/27,14:36,12:36,14:36,Update: Crash on Koeberg Rd / Freedom Way has been cleared.,traffic,,,14:36,16:36
+315,2016/01/27,15:08,15:08,17:08,Crash on Montaque Dr / Chain Rd in Montaque Gardens. Bus lane towards Bosmansdam Rd obstructed.,traffic,1,1,17:08,19:08
+316,2016/01/27,15:51,15:51,17:51,"Crash on Spine / Birkenhead Rd in Strandfontein Village. Intersection blocked, traffic is being diverted via Seafarer & Birkenhead rd.",traffic,1,1,17:51,19:51
+317,2016/01/27,15:52,15:52,17:52,Update: Crash on Montaque Dr / Chain Rd in Montaque Gardens has been cleared.,traffic,1,1,17:52,19:52
+318,2016/01/28,04:21,04:21,07:16,"Traffic lights at Turfhall Rd / Pooke Rd, Newfields are flashing. The department is attending to the matter.",traffic,1,,06:21,09:16
+319,2016/01/28,06:31,06:31,07:06,"Crash: N1 Outbound, before Durban road, left lane closed, expect delays, proceed with caution.",traffic,1,,08:31,09:06
+320,2016/01/28,09:58,09:50,11:50,There is an electrical fault in Saltriver affecting Burns;Colridge & Vicinity as of 11:50 we are busy attending to the fault.,electric,,1,11:50,13:50
+321,2016/01/28,13:52,13:52,14:45,Crash on Military Rd at Steenberg Railway crossing. Steenberg Railway crossing closed; motorists may use the White Rd Railway crossing.,traffic,1,,15:52,16:45
+322,2016/01/28,14:11,14:11,16:11,Traffic lights at Koeberg / Noble in Milnerton are flashing. The department is attending to the matter.,traffic,1,1,16:11,18:11
+323,2016/01/28,14:40,14:40,15:55,"Traffic lights at Tokai / M3, are flashing. The department is attending to the matter.",traffic,1,,16:40,17:55
+324,2016/01/28,19:02,18:30,20:30,"There is currently an electrical fault in Durbanville, Tygervalley road, Racecourse road and surrounds, as of 20:30",electric,,1,20:30,22:30
+325,2016/01/29,04:02,04:02,06:02,"Crash on the N1 Outbound before Jip De Jager, cleared, expect delays and proceed with caution.",traffic,1,1,06:02,08:02
+326,2016/01/29,04:10,04:10,06:10,"Crash on the N1, Inbound at Plattekloof, right lane closed, expect delays, proceed with caution.",traffic,1,1,06:10,08:10
+327,2016/01/29,04:15,04:15,07:22,"Traffic lights at Turfhall Rd / Pooke Rd, Newfields are flashing. The department is attending to this.",traffic,1,,06:15,09:22
+328,2016/01/29,04:18,04:18,07:22,"Traffic lights at West Coast Rd / Melkbos Rd, Melkbos are flashing. The department is attending to this.",traffic,1,,06:18,09:22
+329,2016/01/29,05:02,05:02,07:23,"Traffic lights at Nooiensfontein Rd / Carrinus Rd, Kuils River, all lights are out. The department is attending to this.",traffic,1,,07:02,09:23
+330,2016/01/29,05:12,05:12,07:12,"Update: Crash on the N1 Inbound at Plattekloof, cleared, proceed with caution",traffic,1,1,07:12,09:12
+331,2016/01/29,08:18,08:18,09:23,"Crash: on the N7, Southbound before Bosmansdam, lane closure, expect delays, proceed with caution.",traffic,1,,10:18,11:23
+332,2016/01/29,08:19,08:19,09:21,"Crash on the N2 Inbound at Bhunga Avenue, Right lane obstructed, Expect delays, proceed with caution.",traffic,1,,10:19,11:21
+333,2016/01/29,08:52,08:50,10:50,There is an electrical fault in Bonteheuwel affecting Oudehout & Vicinity as of 10:50 we are busy attending to the fault.,electric,,1,10:50,12:50
+334,2016/01/29,11:14,11:14,12:22,Traffic lights at Main / Bezweni in Cherrywood Gardens are flashing. The department is attending to the matter.,traffic,1,,13:14,14:22
+335,2016/01/29,11:58,11:58,15:56,Crash on the Link from Marine Drive onto FW De Klerk Blvd outbound. Partial obstruction to the left lane on FW De Klerk Blvd.,traffic,1,,13:58,17:56
+336,2016/01/29,12:25,12:25,15:32,Traffic lights at Blaauwberg / Gie in Table View are flashing. The department is attending to the matter.,traffic,1,,14:25,17:32
+337,2016/01/29,12:26,12:26,15:32,Traffic lights at Main / Pollsmoor in Retreat are flashing. The department is attending to the matter.,traffic,1,,14:26,17:32
+338,2016/01/29,13:36,13:36,15:36,Roadworks on the R27 West Coast Road from 1-5 February 2016.,traffic,1,1,15:36,17:36
+339,2016/01/29,14:07,14:07,16:07,Update:Crash on Link from Marine Dr onto FW De Klerk Blvd. All vehicles exiting Paarden Eiland towards Goodwood/Bellville to use Section St.,traffic,1,1,16:07,18:07
+340,2016/01/29,14:08,14:08,16:08,Update: Crash on Link Rd from Marine Drive onto FW De Klerk Blvd. Marine Dr link onto FW De Klerk Blvd outbound is closed.,traffic,1,1,16:08,18:08
+341,2016/01/29,14:50,14:50,15:39,Crash on Somerset & Wessels Rd in Greenpoint. Both right lanes obstructed on Somerset Rd (In both directions),traffic,1,,16:50,17:39
+342,2016/01/29,15:42,15:42,17:42,Traffic lights at Peter Barlow / Tienie Meyer are flashing. The department is attending to the matter.,traffic,1,1,17:42,19:42
+343,2016/01/30,06:58,06:58,08:42,Traffic lights at Bill Bezuidenhout / Sporticain Bellville Park are flashing. The department is attending to the matter.,traffic,1,,08:58,10:42
+344,2016/01/30,10:38,08:38,10:38,Update: Traffic lights at Main / Durham have been repaired.,traffic,,,10:38,12:38
+345,2016/01/30,10:40,10:40,12:40,Traffic lights at La Belle / Winelands are flashing. The department is attending to the matter.,traffic,1,1,12:40,14:40
+346,2016/02/01,04:03,04:03,04:03,Update: Traffic lights at Highlands / Jakes Gerwel in Mitchells Plain have been repaired.,,1,,06:03,06:03
+347,2016/02/01,04:20,04:20,04:20,Update: Traffic lights at Robert Sobukwe / De La Rey in Belhar have been repaired.,,1,,06:20,06:20
+348,2016/02/01,04:21,04:21,06:21,"Stationary vehicle on the N1, Outbound after Plattekloof, left lane closed, expect delays, proceed with caution.",,1,1,06:21,08:21
+349,2016/02/01,04:31,04:31,04:31,"Update: Stationary Vehicle on the N2, Outbound before Liesbeeck has been cleared.",,1,,06:31,06:31
+350,2016/02/01,04:33,04:33,06:33,"Stationary Vehicle on the N2, Outbound before Liesbeeck, left lane closed, expect delays, proceed with caution.",,1,1,06:33,08:33
+351,2016/02/01,04:34,04:34,04:34,"Update: Traffic lights at Sandown Rd & Campground Rd, Rondebosch have been repaired.",,1,,06:34,06:34
+352,2016/02/01,04:57,04:57,06:57,"Traffic lights at Ottery Rd & the M5, Ottery are flashing. The department is attending to the matter.",,1,1,06:57,08:57
+353,2016/02/01,04:59,04:59,04:59,Update: Traffic lights at Rosmead/Wetton in Kenilworth have been repaired.,,1,,06:59,06:59
+354,2016/02/01,05:20,05:20,07:20,Traffic lights at Emms/Govan Mbeki in Nyanga are flashing. The department is currently attending to this.,,1,1,07:20,09:20
+355,2016/02/01,05:52,05:52,07:52,Traffic lights at Rosmead/Wetton in Kenilworth are flashing. The department is currently attending to this.,,1,1,07:52,09:52
+356,2016/02/01,06:13,06:13,08:13,Traffic lights at Robert Sobukwe/Yellowwood in Bellville are flashing. The department is currently attending to this.,,1,1,08:13,10:13
+357,2016/02/01,06:24,06:24,06:24,Update: Traffic lights at Avonwood/Francie Van Zijl in Elsies River have been repaired.,,1,,08:24,08:24
+358,2016/02/01,06:26,06:26,06:26,Update: Stationary vehicle on the N2 inbound before M5 has been cleared.,,1,,08:26,08:26
+359,2016/02/01,06:32,06:32,08:32,"Stationary vehicle on the N2 inbound before M5. Two lanes obstructed, expect delays.",,1,1,08:32,10:32
+360,2016/02/01,06:41,06:41,08:41,Traffic lights at Avonwood/Francie Van Zijl in Elsies River are flashing. The department is currently attending to this.,,1,1,08:41,10:41
+361,2016/02/01,07:04,07:04,07:04,Update: Stationary vehicle on the N2 inbound at R300 has been cleared.,,1,,09:04,09:04
+362,2016/02/01,07:19,07:19,07:19,Update: Crash on the N1 inbound before Old Oak has been cleared.,,1,,09:19,09:19
+363,2016/02/01,07:43,07:43,09:43,"Crash on the N1 inbound before Old Oak. Center lane closed, expect delays.",,1,1,09:43,11:43
+364,2016/02/01,07:51,07:51,07:51,Update: Crash on the N2 inbound at Robert Sobukwe has been cleared.,,1,,09:51,09:51
+365,2016/02/01,08:27,08:27,10:27,"Stationary vehicle on the N2 inbound at R300. Left lane obstructed, expect delays.",,1,1,10:27,12:27
+366,2016/02/01,09:08,09:08,11:08,"Stationary vehicle on the N1 inbound after Durban Road. Centre lane closed, expect delays.",,1,1,11:08,13:08
+367,2016/02/01,11:42,11:42,13:42,"Crash on the N2 inbound at Robert Sobukwe. Left lane closed, expect delays.",,1,1,13:42,15:42
+368,2016/02/01,12:17,12:17,12:17,Update: Traffic lights at Amandel/Sandalwood in Kuils River have been repaired.,,1,,14:17,14:17
+369,2016/02/01,13:34,13:34,15:34,Traffic lights at Highlands/Jakes Gerwel in Mitchells Plain are out. The department is currently attending to this.,,1,1,15:34,17:34
+370,2016/02/01,15:22,15:22,17:22,Traffic lights at Valhalla/Angela in Valhalla Park are flashing. The department is currently attending to this.,,1,1,17:22,19:22
+371,2016/02/01,15:43,15:43,17:43,Traffic lights at R27/Melkbosstrand in Melkbosstrand are out. The department is currently attending to this.,,1,1,17:43,19:43
+372,2016/02/01,16:01,16:01,18:01,Traffic lights at Robert Sobukwe/De La Rey in Belhar are out. The department is currently attending to this.,,1,1,18:01,20:01
+373,2016/02/01,16:02,16:02,18:02,Traffic lights at Amandel/Sandalwood in Kuils River are flashing. The department is currently attending to this.,,1,1,18:02,20:02
+374,2016/02/02,15:24,15:24,15:24,"Update: Crash on the N2 Outbound after Borcherd's Quarry, Crash scene cleared, normal PM peak traffic.",,1,,17:24,17:24
+375,2016/02/02,15:12,15:12,15:12,"Update: Traffic lights at Broadway / Altena, Die Bos have been repaired.",,1,,17:12,17:12
+376,2016/02/02,14:56,14:56,14:56,"Update: Traffic lights at Katdoring / Boabab, Eastridge all lights out, vandalism.",,1,,16:56,16:56
+377,2016/02/02,14:24,14:24,16:24,"Crash: on the N2 Outbound after Borcherds Quarry, Right lane closed, expect delays and proceed with caution.",,1,1,16:24,18:24
+378,2016/02/02,13:32,13:32,15:32,"Traffic lights at Katdoring / Boabab, Eastridge, all lights are out. The department is attending to the matter.",,1,1,15:32,17:32
+379,2016/02/02,13:29,13:29,15:29,"Traffic lights at Broadway / Altena, Die Bos are flashing. The department is attending to the matter.",,1,1,15:29,17:29
+380,2016/02/02,12:50,12:50,14:50,"Crash on the M5 North after the N2, all lanes open, expect delays and proceed with caution.",,1,1,14:50,16:50
+381,2016/02/02,11:46,11:46,11:46,Update: Traffic lights at R27 / Melkbosstrand in Melkbosstrand have been repaired.,,1,,13:46,13:46
+382,2016/02/02,10:35,10:35,10:35,Update: Roadworks on N1 outbound after Durban Road has been cleared.,,1,,12:35,12:35
+383,2016/02/02,09:45,09:45,11:45,"Roadworks on N1 outbound after Durban Road. Left lane closed, expect delays.",,1,1,11:45,13:45
+384,2016/02/02,07:28,07:28,07:28,Update: Traffic lights at Balvenie/Connaught in Parow have been repaired.,,1,,09:28,09:28
+385,2016/02/02,07:01,07:01,09:01,"The City will simulate an emergency exercise in Simon?s Town today, 2 February 2016. https://t.co/tfzfAzyhcy",,1,1,09:01,11:01
+386,2016/02/02,06:00,06:00,08:00,Traffic lights at Balvenie & Connaught in Parow are out. The department is currently attending to this.,,1,1,08:00,10:00
+387,2016/02/03,04:15,04:15,04:15,"Update: Roadworks on the N2 Outbound after Borcherds Quarry has been cleared, proceed with caution.",,1,,06:15,06:15
+388,2016/02/03,04:17,04:17,06:17,"Roadworks on the N2, Outbound after Borcherds Quarry, left lane closed, long delays expected, use alternate route and proceed with caution.",,1,1,06:17,08:17
+389,2016/02/03,04:18,04:18,04:18,Update: Traffic lights at Old Paarl/Howard in Brackenfell have been repaired.,,1,,06:18,06:18
+390,2016/02/03,04:19,04:19,06:19,"Roadworks on N2 outbound after Borcherds Quarry. Left lane closed, expect delays.",,1,1,06:19,08:19
+391,2016/02/03,05:43,05:43,05:43,Update: Traffic lights at Govan Mbeki/Strandfontein have been repaired.,,1,,07:43,07:43
+392,2016/02/03,05:44,05:44,05:44,Update: Traffic lights at Andries Pretorius/Bright in Somerset West have been repaired.,,1,,07:44,07:44
+393,2016/02/03,10:10,10:10,12:10,Traffic lights at Bosmansdam/Montague are out. The department is currently attending to this.,,1,1,12:10,14:10
+394,2016/02/03,11:00,11:00,13:00,Traffic lights at Andries Pretorius/Bright in Somerset West are out. The department is currently attending to this.,,1,1,13:00,15:00
+395,2016/02/03,12:09,12:09,14:09,Traffic lights at Govan Mbeki/Strandfontein are out. The department is currently attending to this.,,1,1,14:09,16:09
+396,2016/02/03,13:38,13:38,15:38,Traffic lights at Old Paarl/Howard in Brackenfell are flashing. The department is currently attending to this.,,1,1,15:38,17:38
+397,2016/02/04,04:19,04:19,06:19,N2 inbound road closure after Strand St off-ramp today at 13h00. Traffic to divert onto Strand. Alternative routes M3 to N1 or De Waal Dr.,,1,1,06:19,08:19
+398,2016/02/04,04:22,04:22,04:22,Update: Traffic lights at Voortrekker/Koeberg in Maitland have been repaired.,,1,,06:22,06:22
+399,2016/02/04,04:36,04:36,04:36,Update: Crash on N2 inbound at Jakes Gerwel has been cleared.,,1,,06:36,06:36
+400,2016/02/04,04:37,04:37,06:37,Traffic lights at Voortrekker/Koeberg in Maitland are flashing. The department is currently attending to this.,,1,1,06:37,08:37
+401,2016/02/04,04:37,04:37,06:37,Update: Crash on N2 inbound at Jakes Gerwel. Two lanes closed. expect long delays.,,1,1,06:37,08:37
+402,2016/02/04,04:37,04:37,04:37,Update: Stationary vehicle on N2 inbound after Jan Smuts has been cleared.,,1,,06:37,06:37
+403,2016/02/04,06:15,06:15,06:15,Update: Traffic lights at Main/R44 in Somerset West have been repaired.,,1,,08:15,08:15
+404,2016/02/04,06:36,06:36,06:36,Update: Traffic lights at Old Paarl/Feinauer/Link in Bellville have been repaired.,,1,,08:36,08:36
+405,2016/02/04,06:47,06:47,08:47,"Crash on N2 inbound at Jakes Gerwel. Left lane closed, expect delays.",,1,1,08:47,10:47
+406,2016/02/04,06:48,06:48,08:48,"Stationary vehicle on N2 inbound after Jan Smuts. Left lane closed, expect delays.",,1,1,08:48,10:48
+407,2016/02/04,07:40,07:40,09:40,"Planned maintenance today in Nyanga, affecting Owen Rd & surr, from 08:30 ? 16:00. Contact 0860 103 089 for more info.",,1,1,09:40,11:40
+408,2016/02/04,07:49,07:49,09:49,"Planned maintenance today in Maitland, affecting Maitland Rd & surr, from 08:00 ? 16:00. Contact 0860 103 089 for more info.",,1,1,09:49,11:49
+409,2016/02/04,08:06,08:06,10:06,"Planned maintenance today in Valmary Park, affecting Derby, Magnolia Rd?s & surr, from 08:00 ? 17:00. Contact 0860 103 089 for more info.",,1,1,10:06,12:06
+410,2016/02/04,08:13,08:13,10:13,"Planned maintenance today in Steenberg, affecting Ravel Rd & surr, from 08:00 ? 17:30 Contact 0860 103 089 for more info.",,1,1,10:13,12:13
+411,2016/02/04,10:24,10:24,12:24,Traffic lights at Main/R44 in Somerset West are out. The department is currently attending to this.,,1,1,12:24,14:24
+412,2016/02/04,10:29,10:29,12:29,Traffic lights at Old Paarl/Feinauer/Link in Bellville are out. The department is currently attending to this.,,1,1,12:29,14:29
+413,2016/02/04,14:08,14:08,16:08,"Crash on De Waal Drive, Outbound before Roodebloem, right lane closed, expect delays, proceed with caution.",,1,1,16:08,18:08
+414,2016/02/04,14:11,14:11,14:11,"Update: Traffic lights at Amandel / Sandlewood, Kuils River have been repaired.",,1,,16:11,16:11
+415,2016/02/04,14:43,14:43,16:43,"Traffic lights at Amandel / Sandlewood, Kuils River are flashing. The department is attending to the matter.",,1,1,16:43,18:43
+416,2016/02/04,15:16,15:16,15:16,"Update: Ramp Closure on the N2, Outbound at Searle / Hyde has now been re-opened, free flowing traffic.",,1,,17:16,17:16
+417,2016/02/04,16:09,16:09,18:09,"Ramp Closure on the N2, Outbound at Searle / Hyde Rd, Use Alt Route.",,1,1,18:09,20:09
+418,2016/02/04,16:16,16:16,16:16,"Update: N2 inbound, road closure after Strand St off-ramp is cleared, free flowing traffic.",,1,,18:16,18:16
+419,2016/02/05,04:46,06:00,15:00,"Planned maintenance today in Brooklyn, Brooklyn Chest Hospital, from 08:00 ? 17:00 Contact 0860 103 089 for more info.",,,,08:00,17:00
+420,2016/02/05,04:47,06:30,16:00,"Planned maintenance today in Grassy Park, affecting 6th, 8th Ave?s Melkar Rd & surr, from 08:30 ? 18:00. Contact 0860 103 089 for more info.",,,,08:30,18:00
+421,2016/02/05,04:47,06:00,16:00,"Planned maintenance today in Heathfield, affecting Consort Rd & surr, from 08:00 ? 16:00. Contact 0860 103 089 for more info.",,,,08:00,18:00
+422,2016/02/05,04:47,06:00,16:00,"Planned maintenance today in Century City, affecting Oasis Rd & surr, from 08:00 ? 16:00. Contact 0860 103 089 for more info.",,,,08:00,18:00
+423,2016/02/05,04:47,06:00,16:00,"Planned maintenance in Valmary Park, affecting De Villiers, Simonsberg Rd?s & surr, from 08:00?16:00. Contact 0860 103 089 for more info.",,,,08:00,18:00
+424,2016/02/05,05:05,05:05,06:51,Truck broken down on Strand Rd before La Belle in Bellville. Left lane obstructed (Direction Kuils River),,1,,07:05,08:51
+425,2016/02/05,05:06,05:06,07:06,Crash on Link from Turf Hall Rd (West bound) onto Jakes Gerwel (Direction Mitchells Plain). Left lane obstructed.,,1,1,07:06,09:06
+426,2016/02/05,06:21,06:21,08:21,Update: Crash on Link from Turf Hall Rd (West bound) onto Jakes Gerwel (Direction Mitchells Plain) has been cleared.,,1,1,08:21,10:21
+427,2016/02/05,06:47,06:47,06:52,Crash on Hindle Rd above R300 in Wesbank. Right lane obstructed (Direction Delft) proceed with caution.,,1,,08:47,08:52
+428,2016/02/05,06:55,06:55,11:31,Traffic lights at Katdoring / Baobab in Eastridge are out. The department is attending to the matter.,,1,,08:55,13:31
+429,2016/02/05,10:54,10:54,11:32,Traffic lights at Koeberg / Loxton in Milnerton are flashing. The department is attending to the matter.,,1,,12:54,13:32
+430,2016/02/05,10:55,10:55,11:30,Traffic lights at Victoria / M5 in Southfield are flashing. The department is attending to the matter.,,1,,12:55,13:30
+431,2016/02/05,12:33,12:33,13:31,"Traffic lights at Valhalla / Plakkies, Kalksteenfontein are flashing. The department is attending to the matter.",,1,,14:33,15:31
+432,2016/02/05,13:07,13:07,13:11,"Traffic lights at Klip / Montague Gift, Lotus River all lights are out. The department is attending to the matter.",,1,,15:07,15:11
+433,2016/02/05,14:40,14:40,16:40,"Crash: Victoria & Salt River Road, Salt River towards town, left lane closed, proceed with caution.",,1,1,16:40,18:40
+434,2016/02/05,14:49,14:49,14:49,"Update: Crash: Victoria & Salt River Road, Salt River towards town has been cleared.",,1,,16:49,16:49
+435,2016/02/05,15:21,15:21,17:47,"Crash: on Hospital Bend outbound, right lane going onto the N2 has been closed, proceed with caution.",,1,,17:21,19:47
+436,2016/02/05,15:23,15:23,15:59,"Crash: on the M3 inbound before the split to the N2, right lane has been closed, proceed with caution.",,1,,17:23,17:59
+437,2016/02/06,04:55,06:00,14:00,"Planned maintenance today in Salt River, SA Milling Consumer Complex, from 08:00 ? 16:00. Contact 0860 103 089 for more info.",,,,08:00,16:00
+438,2016/02/06,04:55,06:00,14:00,"Planned maintenance today in Bergvliet, affecting Eksteen Ave, Fountain Rd & surr, from 08:00 ? 16:00. Contact 0860 103 089 for more info.",,,,08:00,16:00
+439,2016/02/06,04:55,04:00,16:00,"Planned maintenance today in Stranf, affecting 5th St & surr, from 06:00 ? 18:00. Contact 0860 103 089 for more info.",,,,06:00,18:00
+440,2016/02/06,04:55,04:00,16:00,"Planned maintenance today in Strand, affecting 5th ? 10th Ave, Fredericks Rd & surr, from 06:00 ? 18:00 Contact 0860 103 089 for more info.",,,,06:00,18:00
+441,2016/02/06,06:27,06:27,08:40,"Traffic lights at Koeberg Rd / Loxton Rd, Milnerton are flashing. The debarment is attending to the matter.",,1,,08:27,10:40
+442,2016/02/06,06:54,06:54,08:39,"Traffic lights at Valhalla / Plakkies, Kalksteenfontein are flashing. The department is attending to the matter.",,1,,08:54,10:39
+443,2016/02/06,06:57,06:57,10:43,"Traffic lights at Ou Kaapseweg / Noordhoek, Sunvalley, all lights out. The debarment is attending to the matter.",,1,,08:57,12:43
+444,2016/02/06,07:00,07:00,08:38,"Traffic lights at Voortrekker Rd / Tierberg Rd, Parow East, lights are flashing. The debarment is attending to the matter.",,1,,09:00,10:38
+445,2016/02/06,07:22,07:22,07:57,"Traffic lights at Klipfontein Rd / Calendula Rd, Silvertown, all lights out. The debarment is attending to the matter.",,1,,09:22,09:57
+446,2016/02/06,09:03,09:03,09:04,"Traffic lights at 1st Ave / 3rd Ave, Tafelsig are flashing. The department is attending to the matter.",,1,,11:03,11:04
+447,2016/02/06,07:24,07:24,10:43,"Update: Traffic lights at Wespoort / 2nd Avenue, Westridge are flashing, Cables Stolen.",,1,,09:24,12:43
+448,2016/02/06,09:36,09:36,11:36,"Road Closure on the N2 due to veld-fire, outbound at Spine Road, use alternative route and proceed with caution.",,1,1,11:36,13:36
+449,2016/02/06,11:00,11:00,11:00,"Update: Road Closure on the N2 due to veld-fire, road re-opened, back of queue at Mew Way, use alternative route.",,1,,13:00,13:00
+450,2016/02/08,03:52,03:52,05:52,"Protesting: on the N2 Outbound at Sir Lowry Pass Road, road closure, use alternative route and proceed with caution.",,1,1,05:52,07:52
+451,2016/02/08,04:15,04:15,04:56,"Crash: at Jakes Gerwel North before Viking Way, Right lane closed, expect delays, and proceed with caution.",,1,,06:15,06:56
+452,2016/02/08,04:24,04:24,06:24,"Update: protesting on the N2 Outbound at Sir Lowry Pass Road, road closure, use alternative route and proceed with caution.",,1,1,06:24,08:24
+453,2016/02/08,04:28,04:28,08:24,"Traffic lights at Doncaster Rd / Punters Way, Claremont are flashing. The department is attending to the matter.",,1,,06:28,10:24
+454,2016/02/08,04:30,04:30,08:24,"Traffic lights at Hanover Park Ave / Surran Rd, Hanover Park are flashing. The department is attending to the matter.",,1,,06:30,10:24
+455,2016/02/08,04:52,06:30,14:00,"Planned maintenance today in Rondebosch, affecting Loch Rd & surr, from 08:30 ? 16:00. Contact 0860 103 089 for more info.",,,,08:30,16:00
+456,2016/02/08,04:52,06:00,16:00,"Planned maintenance today in Century City, affecting Pringle Rd & surr, from 08:00 ? 18:00. Contact 0860 103 089 for more info.",,,,08:00,18:00
+457,2016/02/08,04:52,06:00,15:00,"Planned maintenance today in Valmary Park, affecting Mill, Malan, Bond Rd?s & surr, from 08:00 ? 17:00 Contact 0860 103 089 for more info.",,,,08:00,17:00
+458,2016/02/08,04:53,06:00,14:00,"Planned maintenance in Hout Bay, affecting King, Skaife Darling, Guinevere Rd & surr, from 08:00?16:00. Contact 0860 103 089 for more info.",,,,08:00,16:00
+459,2016/02/08,04:55,04:55,05:39,"Traffic lights at Belhar Rd / Nooiensfontein Rd, Kuils River are flashing. The department is attending to the matter.",,1,,06:55,07:39
+460,2016/02/08,05:16,05:16,09:51,"Traffic lights at Main Rd / York Rd, Green Point are flashing. The department is attending to the matter.",,1,,07:16,11:51
+461,2016/02/08,06:17,06:17,08:17,"Traffic lights at Wespoort Dr / Second Ave, Westridge are flashing. The department is attending to the matter.",,1,1,08:17,10:17
+462,2016/02/08,06:22,06:22,08:08,"Incident: Truck broken down on the N1 inbound at Plattekloof / Giel Basson, centre lane closed, expect delays and proceed with caution.",,1,,08:22,10:08
+463,2016/02/08,07:43,07:43,11:44,"Traffic lights at Sport Way / Fairtrees, Durbanville are flashing. The department is attending to the matter.",,1,,09:43,13:44
+464,2016/02/08,08:48,08:48,09:22,"Crash on the N2 Outbound after Jakes Gerwel, left lane closed, expect delays and proceed with caution.",,1,,10:48,11:22
+465,2016/02/08,10:16,10:16,10:38,"Traffic lights at Old Oak Rd / Panorama Dr, Eversdal are flashing. The department is attending to the matter.",,1,,12:16,12:38
+466,2016/02/08,10:31,10:31,12:31,"Stationary vehicle on the N1 Outbound before Sable, center lane closed, expect delays and proceed with caution.",,1,1,12:31,14:31
+467,2016/02/08,14:16,14:16,16:16,City advises of road closures for the State of the Nation Address and rehearsals: https://t.co/pgNiJZs583 https://t.co/285uBG15SW,,1,1,16:16,18:16
+468,2016/02/08,14:17,14:17,16:22,Traffic lights at Govan Mbeki / Steve Biko in Silver Town are flashing. The department is attending to the matter.,,1,,16:17,18:22
+469,2016/02/08,14:24,14:24,16:24,"Crash on the N2 outbound at Browning, right lane closed, expect delays.",,1,1,16:24,18:24
+470,2016/02/08,14:51,14:51,16:20,Crash on Victoria road Near Suikerbossie in Hout Bay. Victoria Rd closed towards the Harbour?alt route via main road.,,1,,16:51,18:20
+471,2016/02/08,15:18,15:18,16:21,Crash on the N1 outgoing just before plattekloof Right lane obstructed. Proceed with caution.,,1,,17:18,18:21
+472,2016/02/09,04:41,04:41,05:05,"Stationary vehicle on the N1 inbound before Old Oak, left lane closed. Proceed with caution.",,1,,06:41,07:05
+473,2016/02/09,04:50,06:30,15:00,"Planned maintenance today in Valmary Park, Van der Byl, Lyndenber Rd?s & surr, from 08:30 ? 17:00. Contact 0860 103 089 for more info.",,,,08:30,17:00
+474,2016/02/09,04:50,06:00,15:30,"Planned maintenance today in Southfield, affecting Wynsan Cres, Allen Rd & surr, from 08:00 ? 17:30. Contact 0860 103 089 for more info.",,,,08:00,17:30
+475,2016/02/09,04:50,05:00,16:00,"Planned maintenance today in Macassar, affecting Macassar Switching Station, from 07:00 ? 18:00 Contact 0860 103 089 for more info.",,,,07:00,18:00
+476,2016/02/09,04:51,07:00,10:00,"Planned maintenance today in Stikland, affecting Watt, La Belle Rd?s & surr, from 09:00? 12:00. Contact 0860 103 089 for more info.",,,,09:00,12:00
+477,2016/02/09,04:51,06:30,14:00,"Planned maintenance today in Sunnyside, affecting Benbow Rd & surr, from 08:30 ? 16:00. Contact 0860 103 089 for more info.",,,,08:30,16:00
+478,2016/02/09,04:51,06:30,14:00,"Planned maintenance today in Rondebosch, affecting Sawkins Rd & surr, from 08:30 ? 16:00. Contact 0860 103 089 for more info.",,,,08:30,16:00
+479,2016/02/09,04:51,06:00,14:00,"Planned maintenance today in Duynefontein, affecting Hamerkop Rd, Charles Hoffe & surr, from 08:00?16:00. Contact 0860 103 089 for more info",,,,08:00,16:00
+480,2016/02/09,04:51,06:00,14:00,"Planned maintenance today in Century City, affecting Pringle Rd & surr, from 08:00 ? 16:00. Contact 0860 103 089 for more info.",,,,08:00,16:00
+481,2016/02/09,05:02,05:02,07:02,"Burst water main on Frans Conradie Dr, road closed east bound on Frans Conradie Dr, between Townsend St and Alice St.",,1,1,07:02,09:02
+482,2016/02/09,07:39,07:39,09:22,Traffic lights at Main Rd / York Rd in Green Point are all out. The department is attending.,,1,,09:39,11:22
+483,2016/02/09,10:48,10:48,11:22,"Protest action at Masiphumelele informal settlement, Kommetjie Rd closed between Ou Kaapse Weg and Chasmay Rd.",,1,,12:48,13:22
+484,2016/02/09,12:07,12:07,14:07,Traffic lights at Strandfontein/Jan Smuts/Govan Mbeki are flashing. The department is currently attending to this.,,1,1,14:07,16:07
+485,2016/02/09,12:32,12:32,14:32,Traffic lights at Century Blvd/Entrance 6 in Century City are flashing. The department is currently attending to this.,,1,,14:32,16:32
+486,2016/02/09,15:09,15:09,17:09,"Stationary vehicle on the N2 outbound on De Waal Drive. Left lane closed, expect delays.",,1,1,17:09,19:09
+487,2016/02/10,04:18,04:18,05:09,Traffic lights at Jip De Jager Dr / Van Riebeeckshof Rd in Bellville are flashing. The department is attending to the matter.,,1,,06:18,07:09
+488,2016/02/10,04:29,04:29,05:11,Traffic lights at Govan Mbeki Rd / Japhta K Masemola Rd in Khayelitsha are flashing. The department is attending to the matter,,1,,06:29,07:11
+489,2016/02/10,04:52,06:00,16:00,"Planned maintenance in Somerset West, affecting Alamein, Wilgas, Seaview Rd?s & surr, from 08:00 ? 18:00 Contact 0860 103 089 for more info.",,,,08:00,18:00
+490,2016/02/10,04:53,06:00,14:00,"Planned maintenance in Constantia, affecting Klein Constantia, Husseysvlei Rd?s & surr, from 08:00?6:00. Contact 0860 103 089 for more info.",,,,08:00,16:00
+491,2016/02/10,04:53,06:00,15:00,"Planned maintenance today in Valmary Park, Van der Byl, Lyndenber Rd?s & surr, from 08:00 ? 17:00. Contact 0860 103 089 for more info.",,,,08:00,17:00
+492,2016/02/10,04:53,06:00,14:00,"Planned maintenance in Milnerton, affecting Royal Windsor, Royal Carlisle Rd?s & surr, from 08:00?16:00. Contact 0860 103 089 for more info.",,,,08:00,16:00
+493,2016/02/10,04:54,06:30,14:00,"Planned maintenance in Nyanga, affecting Bush & Miller Rd?s, Zwelitsha Drv & surr, from 08:30 ? 16:00. Contact 0860 103 089 for more info.",,,,08:30,16:00
+494,2016/02/10,04:54,06:30,14:00,"Planned maintenance today in Sunnyside, affecting Port Jackson Rd & surr, from 08:30 ? 16:00. Contact 0860 103 089 for more info.",,,,08:30,16:00
+495,2016/02/10,04:54,06:30,14:00,"Planned maintenance today in Kensington, 5th Ave, 6th St & surr, from 08:30 ? 16:00. Contact 0860 103 089 for more info.",,,,08:30,16:00
+496,2016/02/10,04:54,06:00,14:00,"Planned maintenance today in KTC, affecting 34 Eleni Rd & surr, from 08:00 ? 16:00. Contact 0860 103 089 for more info.",,,,08:00,16:00
+497,2016/02/10,04:58,04:58,12:48,Traffic lights at Blaauwberg Rd / Popham St in Table View are flashing. The department is attending to the matter.,,1,,06:58,14:48
+498,2016/02/10,05:50,05:50,06:16,Traffic lights at the M5 / Hyde Rd in Parkwood are flashing. The department is attending to the matter.,,1,,07:50,08:16
+499,2016/02/10,07:27,07:27,09:27,"Protest action on Robert Sobukwe before N2 direction Manenberg, use alternative route.",,1,1,09:27,11:27
+500,2016/02/10,11:56,11:56,11:56,Traffic lights at Giel Basson Dr / Nathan Mallach St in Goodwood are flashing. The department is attending to the matter.,,1,,13:56,13:56
+501,2016/02/10,12:04,12:04,12:49,Traffic lights at A.J West / Voortrekker are flashing. The department is currently attending to this.,,1,,14:04,14:49
+502,2016/02/10,12:23,12:23,12:23,"Update: Protest action on Robert Sobukwe before N2, direction Manenberg has been cleared.",,1,,14:23,14:23
+503,2016/02/10,14:21,14:21,15:22,"Stationary vehicle on the N1 outbound before Monte Vista. Centre lane closed, expect delays.",,1,,16:21,17:22
+504,2016/02/10,14:38,14:38,15:23,"Stationary vehicle on the N1 inbound at Plattekloof off-ramp. Left lane closed, expect delays.",,1,,16:38,17:23
+505,2016/02/10,14:55,14:55,15:36,"Crash on the N2 inbound after Mowbray Main. Left lane closed, expect delays.",,1,,16:55,17:36
+506,2016/02/11,04:14,04:14,06:14,Traffic lights at Giel Basson Dr / Frans Conradie Dr in Goodwood are flashing. The department is attending to the matter.,,1,1,06:14,08:14
+507,2016/02/11,04:27,04:27,06:27,Traffic lights at Durbanville Ave / De Villiers Dr in Durbanville are flashing. The department is attending to the matter.,,1,1,06:27,08:27
+508,2016/02/11,05:17,05:17,07:17,Traffic lights at Durbanville Ave / De Villiers Dr in Durbanville have been repaired.,,1,1,07:17,09:17
+509,2016/02/11,05:47,05:47,07:47,Traffic lights at Giel Basson Dr / Frans Conradie Dr in Goodwood have been repaired.,,1,1,07:47,09:47
+510,2016/02/11,06:47,06:47,08:47,Traffic lights at Blaauwberg Rd / Popham St in Table View are flashing. The department is attending to the matter.,,1,1,08:47,10:47
+511,2016/02/11,07:33,07:33,09:33,Traffic lights at Waterloo Rd / Alphen Hill Rd in Wynberg are flashing. The department is attending to the matter.,,1,1,09:33,11:33
+512,2016/02/11,07:41,07:41,07:41,Update: Traffic lights at Waterloo Rd / Alphen Hill Rd in Wynberg have been repaired.,,1,,09:41,09:41
+513,2016/02/11,09:55,09:55,09:55,Update:Traffic lights at Blaauwberg Rd / Popham St in Table View have been repaired,,1,,11:55,11:55
+514,2016/02/11,12:10,12:10,12:40,"Stationary vehicle on the N2 outbound before Victoria. Left lane closed, expect delays.",,1,,14:10,14:40
+515,2016/02/11,13:43,13:43,14:19,"Diesel spill at the N2 inbound on De Waal Drive. Left lane closed, expect delays.",,1,,15:43,16:19
+516,2016/02/11,14:04,14:04,16:04,Darling Street closed between Adderley Street & Buitenkant Street due to protest action.,,1,1,16:04,18:04
+517,2016/02/11,14:17,14:17,14:34,Traffic lights at Durbanville Ave/Bella Rosa St are flashing. The department is currently attending to this.,,1,,16:17,16:34
+518,2016/02/11,17:26,17:26,19:26,"Stationary vehicle on the M5 northbound at Berkley. Left lane closed, expect delays.",,1,1,19:26,21:26
+519,2016/02/12,05:01,05:01,09:20,Traffic lights at Darling St / Corporation St in Cape Town City Centre are flashing. The department is attending to the matter.,,1,,07:01,11:20
+520,2016/02/12,06:16,06:16,06:54,"Crash on Main Rd and Ou Kaapse Weg in Kommetjie towards Fish Hoek, left lane closed. Proceed with caution.",,1,,08:16,08:54
+521,2016/02/12,06:22,06:22,07:29,Traffic lights at N2 / Sir Lowry's Pass in Helderberg are flashing. The department is attending to the matter.,,1,,08:22,09:29
+522,2016/02/12,07:00,07:00,07:33,"Stationary vehicle on the N2 inbound at Hospital Bend, right lane closed. Proceed with caution.",,1,,09:00,09:33
+523,2016/02/12,09:44,09:44,10:23,"Crash on the N1 inbound before R300, one lane closed. Expect delays in both inbound and outbound directions.",,1,,11:44,12:23
+524,2016/02/12,09:59,09:59,11:26,Traffic lights at Japhta K Masemola Road / Maphongwana Ave in Ikwezi Park are flashing. The department is attending to the matter.,,1,,11:59,13:26
+525,2016/02/12,10:04,10:04,13:48,Traffic lights at Ou Kaapse Weg / Noordhoek Main Rd in Sun Valley are flashing. The department is attending to the matter.,,1,,12:04,15:48
+526,2016/02/12,10:19,10:19,10:57,"Stationary vehicle on the N2 inbound at Liesbeeck, centre lane closed. Proceed with caution.",,1,,12:19,12:57
+527,2016/02/12,12:26,12:26,13:16,Traffic lights at New Nooiensfontein Dr/Highbury Rd in Kuils River are flashing. The department is currently attending to this.,,1,,14:26,15:16
+528,2016/02/12,12:28,12:28,14:35,Traffic lights at N2/Jakes Gerwel Dr are out. The department is currently attending to this.,,1,,14:28,16:35
+529,2016/02/12,14:09,14:09,14:38,"Stationary vehicle on the M3 southbound at the N2 Interchange. Right lane closed, expect delays.",,1,,16:09,16:38
+530,2016/02/13,06:38,06:38,08:38,Traffic lights at Oliver Tambo/Jakes Gerwel are flashing. The department is currently attending to this.,,1,1,08:38,10:38
+531,2016/02/13,06:40,06:40,08:37,Traffic lights at Robert Sobukwe/De La Rey are out. The department is currently attending to this.,,1,,08:40,10:37
+532,2016/02/13,06:42,06:42,08:41,Traffic lights at Long/Walter Sisulu in the CBD are flashing. The department is currently attending to this.,,1,,08:42,10:41
+533,2016/02/13,08:57,08:57,09:14,Traffic lights at Viking/Halt are out. The department is currently attending to this.,,1,,10:57,11:14
+534,2016/02/14,10:22,10:22,16:10,The City has done an on-site assessment of a beached Southern Right whale carcass which has washed ashore in Bantry Bay.,,1,,12:22,18:10
+535,2016/02/14,10:23,10:23,12:23,We urge residents to steer clear of the area while the removal plan is being developed. The City continues to monitor the situation.,,1,1,12:23,14:23
+536,2016/02/18,04:43,04:43,08:06,Traffic lights at Adderley / Fountain (Exit/Entrance) are out. The department is attending to the matter.,,1,,06:43,10:06
+537,2016/02/18,04:44,04:44,05:57,Traffic lights at Nathan Mallach / Giel Basson are flashing. The department is attending to the matter.,,1,,06:44,07:57
+538,2016/02/18,05:17,05:17,07:54,Traffic lights at Erica / Edison in Belhar 23 are flashing. The department is attending to the matter.,,1,,07:17,09:54
+539,2016/02/18,05:18,05:18,05:55,Traffic lights at Long / Walter Sisulu in the CBD are flashing. The department is attending to the matter.,,1,,07:18,07:55
+540,2016/02/18,06:14,06:14,06:53,Crash on Nooiensfontein Rd outside the Western Cape Sports School in Kuils River. 1 x lane obstructed (Direction Van Riebeek Rd),,1,,08:14,08:53
+541,2016/02/18,07:36,07:36,09:36,"Traffic lights at Nooiensfontein Rd / Highbury Rd, Kuils River are flashing. The department is attending to the matter.",,1,1,09:36,11:36
+542,2016/02/18,08:15,08:15,08:15,Update: Traffic lights at Erica / Edison in Belhar 23 have been repaired.,,1,,10:15,10:15
+543,2016/02/18,09:25,09:25,11:25,Traffic lights at Fountain Circle/Heerengracht are flashing. The department is currently attending to this.,,1,1,11:25,13:25
+544,2016/02/18,10:48,10:48,12:01,Traffic lights at Jakes Gerwel / Viking in Epping are flashing. The department is attending to the matter.,,1,,12:48,14:01
+545,2016/02/18,10:53,10:53,12:53,Traffic lights at Bree / Hout St in the CBD are out. The department is attending to the matter.,,1,1,12:53,14:53
+546,2016/02/18,13:51,00:00,02:00,The City?s prepaid electricity vending system will be off-line from 01:00 until 04:00 on 17 February 2016 for planned maintenance.,,,,02:00,04:00
+547,2016/02/18,14:25,14:25,15:09,Traffic lights at Walter Sisulu Ave / Lower Long St in the CBD are flashing. The department is attending to the matter.,,1,,16:25,17:09
+548,2016/02/18,14:27,14:27,15:28,Traffic lights at Erica Dr / Edison Dr in Belhar are all out. The department is attending to the matter.,,1,,16:27,17:28
+549,2016/02/18,15:24,15:24,17:24,"Boat came off its trailer on Gordons Bay Drive east at George Street, left lane closed. Proceed with caution.",,1,1,17:24,19:24
+550,2016/02/18,16:14,16:14,16:55,"Crash on the N7 northbound at Bosmansdam Road, right lane closed. Proceed with caution.",,1,,18:14,18:55
+551,2016/02/19,00:08,00:08,02:08,There is currently an electrical fault affecting Schaapkraal (Punt road & surr) as of 01:00. The department is currently attending to this.,,1,1,02:08,04:08
+552,2016/02/19,02:57,06:00,14:00,"Planned electrical maintenance today in Tafelsig, Inter Milan road & surrounds from 08:00 ? 16:00. Contact 0860 103 089 for more info",,,,08:00,16:00
+553,2016/02/19,02:57,06:30,14:00,"Planned electrical maintenance today in Boston, Washington street & surrounds from 08:30 ? 16:00. Contact 0860 103 089 for more info",,,,08:30,16:00
+554,2016/02/19,02:58,06:30,14:00,"Planned electrical maintenance today in Lansdowne, O'Okiep road & surrounds from 08:30 ? 16:00. Contact 0860 103 089 for more info",,,,08:30,16:00
+555,2016/02/19,02:59,06:00,14:00,"Planned electrical maintenance today in Kensington, Second street & surrounds from 08:00 ? 16:00. Contact 0860 103 089 for more info",,,,08:00,16:00
+556,2016/02/19,03:00,06:30,13:30,"Planned electrical maintenance today in Panorama, Franschoek crescent & surrounds from 08:30 ? 15:30. Contact 0860 103 089 for more info",,,,08:30,15:30
+557,2016/02/19,03:01,07:00,11:00,"Planned electrical maintenance today in Noordhoek, Hurter avenue & surrounds from 09:00 ? 13:00. Contact 0860 103 089 for more info",,,,09:00,13:00
+558,2016/02/19,04:03,04:03,10:53,Traffic lights at N7/Potsdam are flashing. The department is currently attending to this.,,1,,06:03,12:53
+559,2016/02/19,04:52,04:52,06:27,Traffic lights at Jakes Gerwel Dr/Heideveld Rd are out. The department is currently attending to this.,,1,,06:52,08:27
+560,2016/02/19,04:59,04:59,06:01,Burst water pipe at Main Rd/Wessels Rd in Green Point. Left lane is closed towards Sea Point.,,1,,06:59,08:01
+561,2016/02/19,05:31,05:31,06:43,"Stationary vehicle on the N1 inbound after Jip De Jager. Left lane obstructed, expect delays.",,1,,07:31,08:43
+562,2016/02/19,05:43,05:43,06:28,Traffic lights at Giel Basson Dr/N1 are flashing. The department is currently attending to this.,,1,,07:43,08:28
+563,2016/02/19,05:53,05:53,06:43,"Crash on the N1 inbound after Okavango. Left lane closed, expect delays.",,1,,07:53,08:43
+564,2016/02/19,06:06,06:06,08:06,"Stationary vehicle on the N2 inbound at Mowbray Main off-ramp. One lane closed, expect delays.",,1,1,08:06,10:06
+565,2016/02/19,08:22,08:22,10:22,Traffic lights at Marine Dr/Broad Rd in Milnerton are out. The department is currently attending to this.,,1,1,10:22,12:22
+566,2016/02/19,08:43,08:43,10:43,Traffic lights at Stock Rd/Sheffield Rd are out. The department is currently attending to this.,,1,1,10:43,12:43
+567,2016/02/19,10:20,10:20,14:31,"Crash on N7 southbound before Plattekloof, left lane closed. Northbound affected, right lane closed, expect delays.",,1,,12:20,16:31
+568,2016/02/19,11:19,11:19,13:19,"Mountain fire at Boyes drive Lakeside, Boyes drive closed between Old Boyes drive and Main road as well as at Westlake drive.",,1,1,13:19,15:19
+569,2016/02/19,11:58,11:58,13:58,Traffic lights at Onverwacht Rd / Michael St in Strand are flashing. The department is attending to the matter.,,1,1,13:58,15:58
+570,2016/02/19,12:14,12:14,15:04,"Crash on the N2 inbound at Sir Lowry's Pass before Hairpin Bend, left lane closed. Proceed with caution.",,1,,14:14,17:04
+571,2016/02/19,13:13,13:13,15:40,Traffic lights at Adderley St / Longmarket St in the CBD are flashing. The department is attending to the matter.,,1,,15:13,17:40
+572,2016/02/19,13:15,13:15,14:49,Traffic lights at Main Rd / Kotzee Rd in Observatory are flashing. The department is attending to the matter.,,1,,15:15,16:49
+573,2016/02/19,13:30,13:30,13:53,"Stationary vehicle on the N1 outbound before Jip De Jager, centre lane closed. Proceed with caution.",,1,,15:30,15:53
+574,2016/02/19,14:18,14:18,16:18,Please note: City advises of temporary road closures for Kaizer Chiefs vs Supersport United soccer game. https://t.co/D3NobLpZxY,,1,1,16:18,18:18
+575,2016/02/19,14:27,14:27,16:27,Please note: City warns of possible water supply disruption in the Somerset West area this weekend. https://t.co/ZKHzr2GVF2,,1,1,16:27,18:27
+576,2016/02/19,15:56,15:56,17:54,"Crash on the N2 inbound at the R300, two lanes closed. Proceed with caution.",,1,,17:56,19:54
+577,2016/02/20,04:04,06:30,14:00,Planned electrical maintenance today in Gugulethu (NY 71 & NY 72 & surrounds) from 08:30 ? 16:00. Contact 0860 103 089 for more info,,,,08:30,16:00
+578,2016/02/20,04:05,06:00,14:00,Planned electrical maintenance today in Epping (Bofors Main Substation Network) from 08:00 ? 16:00. Contact 0860 103 089 for more info,,,,08:00,16:00
+579,2016/02/20,04:06,04:00,14:00,"Planned electrical maintenance today in Strand, Caltex Garage, Strand Secondary School from 06:00 ? 16:00.Contact 0860 103 089 for more info",,,,06:00,16:00
+580,2016/02/20,06:12,06:12,08:36,Traffic lights at Wespoort Dr / Merrydale Ave in Mitchell?s Plain are flashing. The department is attending to the matter.,,1,,08:12,10:36
+581,2016/02/20,06:24,06:24,06:33,Traffic lights at Broad Rd / Marine Dr in Milnerton are all out. The department is attending to the matter.,,1,,08:24,08:33
+582,2016/02/20,06:51,06:51,08:29,Traffic lights at Doncaster Rd / Punters Way in Claremont are flashing. The department is attending to the matter.,,1,,08:51,10:29
+583,2016/02/20,07:41,07:41,09:25,Traffic lights at Montague Dr / Freedom Way / Drill Ave in Montague Gardens are flashing. The department is attending to the matter.,,1,,09:41,11:25
+584,2016/02/20,08:40,08:40,08:55,Traffic lights at Klipfontein Rd / Belgravia Rd in Silvertown are all out. The department is attending to the matter.,,1,,10:40,10:55
+585,2016/02/20,08:44,08:44,10:44,Traffic lights at Voortrekker Rd / McIntyre St in Glenlily are all out. The department is attending to the matter.,,1,1,10:44,12:44
+586,2016/02/20,09:41,09:41,09:41,Traffic lights at Onverwacht Rd / Michael St in Strand have been repaired.,,1,,11:41,11:41
+587,2016/02/20,09:55,09:55,10:08,Traffic lights at Strandfontein Rd & Spine Rd in Strandfontein are flashing. The department is attending to the matter.,,1,,11:55,12:08
+588,2016/02/20,10:20,10:20,12:20,"City repair crews worked through the night to restore water supply to Pinelands area, following severe vandalism: https://t.co/KPmM7AOMHK",,1,1,12:20,14:20
+589,2016/02/20,10:25,10:25,12:25,Traffic lights at Durban Rd / Pasita St in Rosenpark are flashing. The department is attending to the matter.,,1,1,12:25,14:25
+590,2016/02/21,03:20,06:00,13:00,"Planned electrical maintenance today in Rugby,portion of Koeberg road from 08:00 ? 15:00. Contact 0860 103 089 for more info",,,,08:00,15:00
+591,2016/02/21,03:20,06:30,14:00,"Planned electrical maintenance today in Gugulethu, NY 71 & NY 72 from 08:30 ? 16:00. Contact 0860 103 089 for more info",,,,08:30,16:00
+592,2016/02/21,03:21,04:00,16:00,"Planned electrical maintenance today in Somerset West, Habitat Centre, Barker road from 06:00 ? 18:00. Contact 0860 103 089 for more info",,,,06:00,18:00
+593,2016/02/21,03:23,04:30,05:30,"Planned electrical maintenance today in Bellville South, Kasselsvlei rd, Glucose Way from 06:30 ? 07:30. Contact 0860 103 089 for more info",,,,06:30,07:30
+594,2016/02/21,03:24,06:00,13:00,"Planned electrical maintenance today in Goodwood, Hyperama N1 City from 08:00 ? 15:00. Contact 0860 103 089 for more info",,,,08:00,15:00
+595,2016/02/21,03:24,06:00,14:00,"Planned electrical maintenance today in Marconi Beam,Freedom street & surrounds from 08:00 ? 16:00. Contact 0860 103 089 for more info",,,,08:00,16:00
+596,2016/02/21,03:25,06:00,12:00,"Planned electrical maintenance today in Parow South, Junction road & surrounds from 08:00 ? 14:00. Contact 0860 103 089 for more info",,,,08:00,14:00
+597,2016/02/21,03:26,06:30,13:30,"Planned electrical maintenance today in Parow Industria, Stoker street & surrounds from 08:30 ? 15:30. Contact 0860 103 089 for more info",,,,08:30,15:30
+598,2016/02/21,18:13,09:00,15:00,"Adderley St & Wale St will be closed in both directions between Bureau and Queen Victoria Streets from 11:00 to 17:00 Sunday, 21 Feb 2016.",,,,11:00,17:00
+599,2016/02/22,00:06,00:00,02:00,There is currently an electrical fault affecting the Ocean View area as of 00:25. The department is currently attending to this.,,,1,02:00,04:00
+600,2016/02/22,02:11,06:00,14:00,Planned electrical maintenance today in Gugulethu (NY 16 & surrounds) from 08:00 ? 16:00. Contact 0860 103 089 for more info,,,,08:00,16:00
+601,2016/02/22,02:11,06:00,14:00,Planned electrical maintenance today in Observatory (Kotzee road & surrounds) from 08:00 ? 16:00. Contact 0860 103 089 for more info,,,,08:00,16:00
+602,2016/02/22,02:12,06:30,14:00,Planned electrical maintenance today in Kenwyn (Matruh road & surrounds) from 08:30 ? 16:00. Contact 0860 103 089 for more info,,,,08:30,16:00
+603,2016/02/22,02:13,06:30,14:00,"Planned electrical maintenance today in Highbury, New Nooiensfontein road & surrounds from 08:00 ? 16:00. Contact 0860 103 089 for more info",,,,08:30,16:00
+604,2016/02/22,05:08,05:08,07:08,"Crash: on the N2 out after Macassar, right lane closed, proceed with caution.",,1,1,07:08,09:08
+605,2016/02/22,05:11,05:11,06:05,"Truck broken down at Jakes Gerwel South after Viking Way, left lane closed, proceed with caution.",,1,,07:11,08:05
+606,2016/02/22,06:05,06:05,08:05,"Traffic lights at Klipfontein Rd / Harris Rd, Mowbray, are flashing. The department is attending to the matter.",,1,1,08:05,10:05
+607,2016/02/22,06:14,06:14,08:14,"Update: Crash on the N2, after Macassar has been cleared.",,1,1,08:14,10:14
+608,2016/02/22,07:02,07:02,08:09,"Traffic lights at De La Rey / Industria Ring Rd, Ravensmead are flashing. The department is attending to the matter.",,1,,09:02,10:09
+609,2016/02/22,07:50,07:50,09:50,"Update: Traffic lights at Klipfontein Rd / Harris Rd, Mowbray have been repaired.",,1,1,09:50,11:50
+610,2016/02/22,08:06,08:06,09:13,"Crash: on the N1 Inbound before Lower Church St, lane closure, expect delays and proceed with caution.",,1,,10:06,11:13
+611,2016/02/22,08:50,08:50,09:15,"Traffic lights at Durban Rd / Church St, Bellville, all lights are out and the department is attending to the matter.",,1,,10:50,11:15
+612,2016/02/22,09:10,09:05,09:10,"Traffic lights at Durban Rd & Pasita St, Rosenpark are flashing. The department is attending to the matter.",,,,11:05,11:10
+613,2016/02/22,09:48,09:48,11:48,"Roadworks: on the N2 outbound at Mew Way, right lane closed, expect delays.",,1,1,11:48,13:48
+614,2016/02/22,12:09,12:09,14:09,Roadworks between Borchards Quarry & R300 to upgrade N2 to 3-lanes in both directions. Expected to be finished by mid 2017.,,1,1,14:09,16:09
+615,2016/02/22,15:59,15:59,17:59,Smoke Hazard with Bush and grass on fire on Klipfontein at Athlone Stadium. Proceed with caution.,,1,1,17:59,19:59
+616,2016/02/22,16:01,16:01,18:01,Accident on Christian Barnard and Hertzog Blvd. Christian Barnard towards N1 left lane obstructed. Proceed with caution.,,1,1,18:01,20:01
+617,2016/02/22,21:05,21:00,00:00,Planned electrical maintenance today in Belgravia (Denchworth road & surrounds) from 23:00 ? 04:00. Contact 0860 103 089 for more info,,,,23:00,02:00
+618,2016/02/23,02:41,06:30,14:00,Planned electrical maintenance today in Kenwyn (Woodbury road & surrounds) from 08:30 ? 16:00. Contact 0860 103 089 for more info,,,,08:30,16:00
+619,2016/02/23,02:41,06:30,15:00,"Planned electrical maintenance today in Sherwood Park (1st ave, 2nd ave & surrounds) from 08:30 ? 17:00. Contact 0860 103 089 for more info",,,,08:30,17:00
+620,2016/02/23,02:42,06:30,14:00,Planned electrical maintenance today in De La Haye (Goya street & surrounds) from 08:30 ? 16:00. Contact 0860 103 089 for more info,,,,08:30,16:00
+621,2016/02/23,02:43,06:00,15:30,Planned electrical maintenance today in Muizenberg (St Patricks street & surrounds) from 08:00 ? 17:30. Contact 0860 103 089 for more info,,,,08:00,17:30
+622,2016/02/23,02:43,06:00,14:00,Planned electrical maintenance today in Mowbray (Broad road & surrounds) from 08:00 ? 16:00. Contact 0860 103 089 for more info,,,,08:00,16:00
+623,2016/02/23,02:44,06:00,14:00,Planned electrical maintenance today in Duynefontein (Charles Hoffe ave & surrounds) from 08:00 ? 16:00. Contact 0860 103 089 for more info,,,,08:00,16:00
+624,2016/02/23,02:45,06:00,16:00,Planned electrical maintenance today in Strand (Van der Byl street & surrounds) from 08:00 ? 18:00. Contact 0860 103 089 for more info,,,,08:00,18:00
+625,2016/02/23,02:46,06:30,16:00,Planned electrical maintenance today in Westridge (Kweper close & surrounds) from 08:30 ? 18:00. Contact 0860 103 089 for more info,,,,08:30,18:00
+626,2016/02/23,02:46,06:30,16:00,Planned electrical maintenance today in Kuilsriver (Zevenwacht Retirement Village) from 08:30 ? 18:00. Contact 0860 103 089 for more info,,,,08:30,18:00
+627,2016/02/23,02:47,06:00,14:00,Planned electrical maintenance today in Brooklyn (Northgate Island & surrounds) from 08:00 ? 16:00. Contact 0860 103 089 for more info,,,,08:00,16:00
+628,2016/02/23,04:11,04:11,06:55,"Traffic lights at Koeberg Rd / Tanzanite St, Milnerton, are flashing. The department is attending to the matter.",,1,,06:11,08:55
+629,2016/02/23,04:16,04:16,06:16,"Traffic lights at Constantia Main Rd / Brommersvlei Rd, Alphen, are flashing. The department is attending to the matter.",,1,1,06:16,08:16
+630,2016/02/23,04:18,04:18,06:56,"Traffic lights at DF Malan St / FW de Klerk Blvd, CBD, all lights out. The department is attending to the matter.",,1,,06:18,08:56
+631,2016/02/23,04:21,04:21,07:01,"Traffic lights at Keizersgracht / Tennant St, Zonnebloem are flashing. The department is attending to the matter.",,1,,06:21,09:01
+632,2016/02/23,06:08,06:08,06:08,"Update: Traffic lights at Constantia Main Rd / Brommersvlei Rd, Alphen have been repaired.",,1,,08:08,08:08
+633,2016/02/23,06:12,06:12,07:17,"Incident: Truck broken down Cnr Koeberg Rd / Cannon St, Maitland, left lane, south bound closed on Cannon St, proceed with caution.",,1,,08:12,09:17
+634,2016/02/23,08:11,08:11,10:11,"Roadworks: on the N2, outbound at Mew Way, right lane closed, expect delays.",,1,1,10:11,12:11
+635,2016/02/23,11:10,11:10,12:28,"Traffic lights at Milton Rd / Hugo St, Goodwood, are flashing. The department is attending to the matter.",,1,,13:10,14:28
+636,2016/02/23,13:32,13:32,15:32,Traffic lights at Sandown / Rivergate in Milnerton are flashing. The department is attending to the matter.,,1,1,15:32,17:32
+637,2016/02/23,13:34,13:34,15:34,Protest action on Acacia road. Acacia closed / Klip and Hyde closed.,,1,1,15:34,17:34
+638,2016/02/23,15:01,15:01,17:01,Burst water main on Loop / Riebeek and Waterkant. Left and center lane closed / right lane only lane open.,,1,1,17:01,19:01
+639,2016/02/23,15:02,15:02,15:21,"Truck broken down on Jakes Gerwel, southbound at Frans Conradie. Center lane obstructed.",,1,,17:02,17:21
+640,2016/02/23,16:08,16:08,18:08,Traffic lights at Balvenie / Cannaught in Cravenby are flashing. The department is attending to the matter.,,1,1,18:08,20:08
+641,2016/02/24,04:25,04:25,06:51,"Traffic lights at Protea Rd / Kruis, Brackenfell, are flashing. The department is attending to the matter.",,1,,06:25,08:51
+642,2016/02/24,04:30,04:30,07:34,Traffic lights at Century Blvd / Entrance 7 are flashing. The department is attending to the matter.,,1,,06:30,09:34
+643,2016/02/24,04:44,04:44,06:44,"Traffic lights at Jakes Gerwel / Highlands Dr, Mitchells Plain, all lights are out due to vandalism.",,1,1,06:44,08:44
+644,2016/02/24,05:10,05:10,07:10,"Protest action at Jakes Gerwel / R300 / Morgenster Rd, road closure at Jakes Gerwel / R300 / Morgenster Rd in both directions.",,1,1,07:10,09:10
+645,2016/02/24,05:15,05:15,07:15,Traffic lights at Balvenie / Cannaught in Cravenby are flashing. The department is attending to the matter.,,1,1,07:15,09:15
+646,2016/02/24,05:45,05:45,07:35,"Traffic lights at Sandown Rd / Rivergate Dr, Parklands, all lights are out. The department is attending to the matter.",,1,,07:45,09:35
+647,2016/02/24,09:33,09:33,09:34,"Traffic lights at Robert Sobukwe Rd / Caledon St, Bellville are flashing. The department is attending to the matter.",,1,,11:33,11:34
+648,2016/02/24,13:52,13:52,15:52,Protest on Jakes Gerwel at Siqalo. Road closure on Jakes Gerwel / Morgenster and R300.,,1,1,15:52,17:52
+649,2016/02/24,15:50,15:50,17:50,Crash on R300 under Hindle Road Bridge (Direction N1) Left lane and centre lane obstructed.,,1,1,17:50,19:50
+650,2016/02/25,03:41,03:41,03:41,Update: Crash on the R300 under Hindle Road Bridge (Direction N1) has been cleared. Free flowing traffic.,,1,,05:41,05:41
+651,2016/02/25,04:14,04:14,06:14,"Incident: Stationary Vehicle on the N1 Inbound before Old Oak, Ramp lane closed, expect delays and proceed with caution.",,1,1,06:14,08:14
+652,2016/02/25,04:38,04:38,06:38,"Update: Stationary Vehicle on the N1 Inbound before Old Oak, Ramp lane obstructed, proceed with caution.",,1,1,06:38,08:38
+653,2016/02/25,05:08,05:08,07:08,"Update: Stationary Vehicle: N1 Inbound, before Old Oak, all lanes open, no delays",,1,1,07:08,09:08
+654,2016/02/25,07:43,07:43,07:46,"Traffic lights at Stellenbosch Arterial / Symphony Way, Wimbledon Estate, all lights out. The department is attending to the matter.",,1,,09:43,09:46
+655,2016/02/25,07:45,07:45,11:46,"Traffic lights at Berkley Rd / Alexandra Rd, Ndabeni, all lights out. The department is attending to the matter.",,1,,09:45,13:46
+656,2016/02/25,08:38,08:38,10:38,"Crash on the N1 outbound at ramp to Jip De Jager, one lane closed. Proceed with caution.",,1,1,10:38,12:38
+657,2016/02/25,09:53,09:53,11:53,"Traffic lights at Durban Rd / Pasita St, Rosenpark are flashing. The department is attending to the matter.",,1,1,11:53,13:53
+658,2016/02/25,10:00,10:00,12:00,"Update: Traffic lights at Durban Rd / Pasita St, Rosenpark have been repaired.",,1,1,12:00,14:00
+659,2016/02/25,14:48,14:48,16:48,Crash on Hospital Bend outgoing Left two lanes obstructed.,,1,1,16:48,18:48
+660,2016/02/26,04:34,04:34,07:40,"Traffic lights at Owen Rd / Halt Rd, Elsies River are flashing. The department is attending to the matter.",,1,,06:34,09:40
+661,2016/02/26,05:02,05:02,05:55,"Crash on Robert Sobukwe Rd / Valhalla Dr, Left lane, east bound closed, expect delays and proceed with caution.",,1,,07:02,07:55
+662,2016/02/26,14:36,14:36,16:29,House alight on Sarel Cilliers Rd in Strand. Sarel Cilliers Rd between De Beers & Fagan closed.,,1,,16:36,18:29
+663,2016/02/26,14:37,14:37,15:06,Vehicle broken down on Jakes Gerwel before Milton Rd in Goodwood. Left lane obstructed (Direction Voortrekker Rd),,1,,16:37,17:06
+664,2016/02/26,16:27,16:27,18:27,Crash on Otto Du Plessis & Racecourse Rd in Milnerton.Partial obstruction to intersection (Left lane open on Otto Du Plessis towards CPT),,1,1,18:27,20:27
+665,2016/02/27,09:00,09:00,10:27,Traffic lights at Weltevreden / Oliver Tambo are out. The department is attending to the matter.,,1,,11:00,12:27
+666,2016/02/27,09:03,09:03,11:03,Traffic lights at Klip / Plantation are flashing. The department is attending to the matter.,,1,1,11:03,13:03
+667,2016/02/27,10:28,10:28,12:28,Crash on the R300 at Stellenbosch Arterial (Direction N1). Left and centre lane obstructed.,,1,1,12:28,14:28
+668,2016/02/27,11:18,11:18,13:18,Traffic lights at Durban / Pasita are flashing. The department is attending to the matter.,,1,1,13:18,15:18
+669,2016/02/28,04:04,04:04,04:47,Traffic lights at Kruis/Taurus in Brackenfell are flashing. The department is currently attending to this.,,1,,06:04,06:47
+670,2016/02/28,04:06,04:06,06:06,Traffic lights at Govan Mbeki/Jan Smuts are flashing. The department is currently attending to this.,,1,1,06:06,08:06
+671,2016/02/28,04:59,04:59,06:59,Traffic lights at Belhar Dr/Alabama Dr in Belhar are flashing. The department is currently attending to this.,,1,1,06:59,08:59
+672,2016/02/28,05:28,05:28,08:46,Traffic lights at Broadway/Onverwacht in Strand are flashing. The department is currently attending to this.,,1,,07:28,10:46
+673,2016/02/28,09:16,09:16,10:15,Traffic lights at Jakes Gerwel/Klipfontein are flashing. The department is currently attending to this.,,1,,11:16,12:15
+674,2016/02/28,09:31,09:31,10:14,Traffic lights at Bosmansdam/Ocean Spirit in Sanddrift are flashing. The department is currently attending to this.,,1,,11:31,12:14
+675,2016/02/28,14:50,14:50,16:17,"Crash on the N2, outbound at Airport Approach, the center lane is closed, expect delays and proceed with caution.",,1,,16:50,18:17
